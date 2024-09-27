@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define POPULATION_SIZE 6
-#define CHROMOSOME_LENGTH 16
+#define POPULATION_SIZE 20
+#define CHROMOSOME_LENGTH 3
 
 typedef struct Individual {
     int chromosome[CHROMOSOME_LENGTH];
