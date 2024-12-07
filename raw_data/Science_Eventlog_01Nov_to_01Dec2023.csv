@@ -1,0 +1,431 @@
+V_A10
+2023-12-01 14.01.46
+Event #,DateTime,Type,Value,Trigger
+82825,2023-10-31 13.31.19,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82826,2023-10-31 13.31.19,Status,Parallel Mode,Operation Auto Inverter Only
+82827,2023-11-01 11.53.26,User,System Off,HMI_System_Off
+82828,2023-11-01 11.53.26,Status,Source A Cooling Down,Operation System Off
+82829,2023-11-01 11.53.26,Status,Inverter Stopped,Operation System Off
+82830,2023-11-01 11.53.26,Status,Inverter CB Opened,Inv CB Waiting for Opened
+82831,2023-11-01 11.53.26,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82832,2023-11-01 11.53.28,Status,Source A Stopped,SrcA Cooling Down
+82833,2023-11-01 12.12.36,User,Fault Reset,HMI_Fault_Reset
+82834,2023-11-01 12.12.40,User,Auto Inv Only Mode,HMI_Full_Auto
+82835,2023-11-01 12.12.40,Status,Inverter Started,Operation Auto Inverter Only
+82836,2023-11-01 12.12.40,Status,Start Source A,Operation Auto Inverter Only
+82837,2023-11-01 12.12.41,Status,Source A Warming Up,SrcA Startup
+82838,2023-11-01 12.12.42,Status,Inverter CB Closed,Inv CB Waiting for Closed
+82839,2023-11-01 12.13.32,Status,Sync OK,Inv Source Tracking
+82840,2023-11-01 12.13.32,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82841,2023-11-01 12.13.32,Status,Parallel Mode,Operation Auto Inverter Only
+82842,2023-11-02 09.00.23,Status,Emergency Stop,IN10 Digital Input Emergency Stop DSP
+82843,2023-11-02 09.00.23,Status,Source A Cooling Down,Operation System Off
+82844,2023-11-02 09.00.23,Status,Inverter Stopped,Operation System Off
+82845,2023-11-02 09.00.23,Status,Inverter CB Opened,Inv CB Waiting for Opened
+82846,2023-11-02 09.00.23,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82847,2023-11-02 09.00.26,Status,Source A Stopped,SrcA Cooling Down
+82848,2023-11-02 20.46.34,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+82849,2023-11-03 12.04.48,User,Man Inv Only Mode,HMI_Manual_Inverter
+82850,2023-11-03 12.04.48,User,Inverter Started,HMI_Manual_Inverter
+82851,2023-11-03 12.04.50,Status,Inverter CB Closed,Inv CB Waiting for Closed
+82852,2023-11-03 12.04.58,User,Auto Inv Only Mode,HMI_Full_Auto
+82853,2023-11-03 12.04.58,Status,Start Source A,Operation Auto Inverter Only
+82854,2023-11-03 12.04.59,Status,Source A Warming Up,SrcA Startup
+82855,2023-11-03 12.05.21,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+82856,2023-11-03 12.05.47,Status,Sync OK,Inv Source Tracking
+82857,2023-11-03 12.05.47,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82858,2023-11-03 12.05.47,Status,Parallel Mode,Operation Auto Inverter Only
+82859,2023-11-03 12.11.29,Status,Source Stop Low AC V,None
+82860,2023-11-03 12.11.29,Status,Source A Cooling Down,Fault Action13
+82861,2023-11-03 12.11.30,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+82862,2023-11-03 12.11.30,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82863,2023-11-03 12.11.32,Status,Source A Stopped,SrcA Cooling Down
+82864,2023-11-03 12.11.32,Status,Start Source A,Operation Auto Inverter Only
+82865,2023-11-03 12.11.33,Status,Source A Warming Up,SrcA Startup
+82866,2023-11-03 12.12.19,Status,Sync OK,Inv Source Tracking
+82867,2023-11-03 12.12.19,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82868,2023-11-03 12.12.19,Status,Parallel Mode,Operation Auto Inverter Only
+82869,2023-11-03 12.31.42,Status,Source Stop Low AC V,None
+82870,2023-11-03 12.31.42,Status,Source A Cooling Down,Fault Action13
+82871,2023-11-03 12.31.42,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+82872,2023-11-03 12.31.44,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82873,2023-11-03 12.31.46,Status,Source A Stopped,SrcA Cooling Down
+82874,2023-11-03 12.31.46,Status,Start Source A,Operation Auto Inverter Only
+82875,2023-11-03 12.31.48,Status,Source A Warming Up,SrcA Startup
+82876,2023-11-03 12.32.36,Status,Sync OK,Inv Source Tracking
+82877,2023-11-03 12.32.36,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82878,2023-11-03 12.32.36,Status,Parallel Mode,Operation Auto Inverter Only
+82879,2023-11-03 17.39.53,Status,Source Stop Low AC V,None
+82880,2023-11-03 17.39.53,Status,Source A Cooling Down,Fault Action13
+82886,2023-11-03 17.40.46,Status,Sync OK,Inv Source Tracking
+82887,2023-11-03 17.40.46,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82888,2023-11-03 17.40.47,Status,Parallel Mode,Operation Auto Inverter Only
+82889,2023-11-04 10.01.12,Status,Source Stop Low AC V,None
+82890,2023-11-04 10.01.12,Status,Source A Cooling Down,Fault Action13
+82891,2023-11-04 10.01.12,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+82892,2023-11-04 10.01.12,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82893,2023-11-04 10.01.15,Status,Source A Stopped,SrcA Cooling Down
+82894,2023-11-04 10.01.15,Status,Start Source A,Operation Auto Inverter Only
+82895,2023-11-04 10.01.16,Status,Source A Warming Up,SrcA Startup
+82896,2023-11-04 10.02.07,Status,Sync OK,Inv Source Tracking
+82897,2023-11-04 10.02.07,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82898,2023-11-04 10.02.07,Status,Parallel Mode,Operation Auto Inverter Only
+82899,2023-11-04 10.51.55,Status,Source Stop Low AC V,None
+82900,2023-11-04 10.51.55,Status,Source A Cooling Down,Fault Action13
+82901,2023-11-04 10.51.55,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+82902,2023-11-04 10.51.55,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82903,2023-11-04 10.51.57,Status,Source A Stopped,SrcA Cooling Down
+82904,2023-11-04 10.51.57,Status,Start Source A,Operation Auto Inverter Only
+82905,2023-11-04 10.51.58,Status,Source A Warming Up,SrcA Startup
+82906,2023-11-04 10.52.48,Status,Sync OK,Inv Source Tracking
+82907,2023-11-04 10.52.48,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82908,2023-11-04 10.52.48,Status,Parallel Mode,Operation Auto Inverter Only
+82909,2023-11-04 12.21.10,Status,Source Stop Low AC V,None
+82910,2023-11-04 12.21.10,Status,Source A Cooling Down,Fault Action13
+82911,2023-11-04 12.21.10,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+82912,2023-11-04 12.21.10,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82913,2023-11-04 12.21.12,Status,Source A Stopped,SrcA Cooling Down
+82914,2023-11-04 12.21.12,Status,Start Source A,Operation Auto Inverter Only
+82915,2023-11-04 12.21.13,Status,Source A Warming Up,SrcA Startup
+82916,2023-11-04 12.22.00,Status,Sync OK,Inv Source Tracking
+82917,2023-11-04 12.22.00,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82918,2023-11-04 12.22.00,Status,Parallel Mode,Operation Auto Inverter Only
+82919,2023-11-05 10.09.02,Status,Emergency Stop,IN10 Digital Input Emergency Stop DSP
+82920,2023-11-05 10.09.02,Status,Source A Cooling Down,Operation System Off
+82921,2023-11-05 10.09.02,Status,Inverter Stopped,Operation System Off
+82922,2023-11-05 10.09.02,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82923,2023-11-05 10.09.02,Status,Inverter CB Opened,Inv CB Waiting for Opened
+82924,2023-11-05 10.09.04,Status,Source A Stopped,SrcA Cooling Down
+82925,2023-11-06 00.49.08,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+82926,2023-11-12 09.50.59,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+82927,2023-11-12 22.12.56,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+82928,2023-11-13 11.54.43,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+82929,2023-11-14 00.22.57,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+82930,2023-11-14 08.29.20,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+82931,2023-11-15 00.19.26,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+82932,2023-11-15 08.31.51,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+82933,2023-11-15 23.36.33,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+82934,2023-11-16 08.48.25,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+82935,2023-11-16 23.07.23,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+82936,2023-11-17 08.44.07,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+82937,2023-11-18 02.28.17,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+82938,2023-11-18 08.39.57,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+82939,2023-11-18 14.49.34,User,Auto Inv Only Mode,HMI_Full_Auto
+82940,2023-11-18 14.49.34,Status,Inverter Started,Operation Auto Inverter Only
+82941,2023-11-18 14.49.34,Status,Start Source A,Operation Auto Inverter Only
+82942,2023-11-18 14.49.35,Status,Source A Warming Up,SrcA Startup
+82943,2023-11-18 14.49.36,Status,Inverter CB Closed,Inv CB Waiting for Closed
+82944,2023-11-18 14.49.44,User,System Off,HMI_System_Off
+82945,2023-11-18 14.49.44,Status,Source A Cooling Down,Operation System Off
+82946,2023-11-18 14.49.44,Status,Inverter Stopped,Operation System Off
+82947,2023-11-18 14.49.44,Status,Inverter CB Opened,Inv CB Waiting for Opened
+82948,2023-11-18 14.49.46,Status,Source A Stopped,SrcA Cooling Down
+82949,2023-11-18 15.51.09,User,Auto Inv Only Mode,HMI_Full_Auto
+82950,2023-11-18 15.51.09,Status,Inverter Started,Operation Auto Inverter Only
+82951,2023-11-18 15.51.11,Status,Inverter CB Closed,Inv CB Waiting for Closed
+82952,2023-11-18 16.32.28,Status,Start Source A,Operation Auto Inverter Only
+82953,2023-11-18 16.32.29,Status,Source A Cooling Down,Operation Auto Inverter Only
+82954,2023-11-18 16.32.31,Status,Source A Stopped,SrcA Cooling Down
+82955,2023-11-18 17.33.41,Status,Start Source A,Operation Auto Inverter Only
+82956,2023-11-18 17.33.42,Status,Source A Warming Up,SrcA Startup
+82957,2023-11-18 17.34.33,Status,Source Stop Low AC V,None
+82958,2023-11-18 17.34.33,Status,Source A Cooling Down,Fault Action13
+82959,2023-11-18 17.34.36,Status,Source A Stopped,SrcA Cooling Down
+82960,2023-11-18 17.35.00,Status,Start Source A,Operation Auto Inverter Only
+82961,2023-11-18 17.35.01,Status,Source A Warming Up,SrcA Startup
+82962,2023-11-18 17.35.49,Status,Sync OK,Inv Source Tracking
+82963,2023-11-18 17.35.49,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82964,2023-11-18 17.35.50,Status,Parallel Mode,Operation Auto Inverter Only
+82965,2023-11-18 17.42.08,Status,Source Stop Low AC V,None
+82966,2023-11-18 17.42.08,Status,Source A Cooling Down,Fault Action13
+82967,2023-11-18 17.42.08,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+82968,2023-11-18 17.42.08,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82969,2023-11-18 17.42.10,Status,Source A Stopped,SrcA Cooling Down
+82970,2023-11-18 17.42.11,Status,Start Source A,Operation Auto Inverter Only
+82971,2023-11-18 17.42.12,Status,Source A Warming Up,SrcA Startup
+82972,2023-11-18 17.43.01,Status,Sync OK,Inv Source Tracking
+82973,2023-11-18 17.43.01,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82974,2023-11-18 17.43.01,Status,Parallel Mode,Operation Auto Inverter Only
+82975,2023-11-18 17.59.25,Status,Source Stop Low AC V,None
+82976,2023-11-18 17.59.25,Status,Source A Cooling Down,Fault Action13
+82977,2023-11-18 17.59.25,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+82978,2023-11-18 17.59.25,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82979,2023-11-18 17.59.27,Status,Source A Stopped,SrcA Cooling Down
+82980,2023-11-18 17.59.27,Status,Start Source A,Operation Auto Inverter Only
+82981,2023-11-18 17.59.28,Status,Source A Warming Up,SrcA Startup
+82982,2023-11-18 18.00.15,Status,Sync OK,Inv Source Tracking
+82983,2023-11-18 18.00.16,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82984,2023-11-18 18.00.16,Status,Parallel Mode,Operation Auto Inverter Only
+82985,2023-11-18 18.09.06,Status,Source Stop Low AC V,None
+82986,2023-11-18 18.09.06,Status,Source A Cooling Down,Fault Action13
+82987,2023-11-18 18.09.06,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+82988,2023-11-18 18.09.07,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82989,2023-11-18 18.09.09,Status,Source A Stopped,SrcA Cooling Down
+82990,2023-11-18 18.09.09,Status,Start Source A,Operation Auto Inverter Only
+82991,2023-11-18 18.09.10,Status,Source A Warming Up,SrcA Startup
+82992,2023-11-18 18.10.00,Status,Sync OK,Inv Source Tracking
+82993,2023-11-18 18.10.00,Status,Source A CB Closed,SrcA CB Waiting for Closed
+82994,2023-11-18 18.10.00,Status,Parallel Mode,Operation Auto Inverter Only
+82995,2023-11-18 18.27.48,Status,Source Stop Low AC V,None
+82996,2023-11-18 18.27.48,Status,Source A Cooling Down,Fault Action13
+82997,2023-11-18 18.27.48,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+82998,2023-11-18 18.27.48,Status,Source A CB Opened,SrcA CB Waiting for Opened
+82999,2023-11-18 18.27.50,Status,Source A Stopped,SrcA Cooling Down
+83000,2023-11-18 18.27.50,Status,Start Source A,Operation Auto Inverter Only
+83001,2023-11-18 18.27.51,Status,Source A Warming Up,SrcA Startup
+83002,2023-11-18 18.28.40,Status,Sync OK,Inv Source Tracking
+83003,2023-11-18 18.28.40,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83004,2023-11-18 18.28.40,Status,Parallel Mode,Operation Auto Inverter Only
+83005,2023-11-18 22.49.53,Status,Source Stop Low AC V,None
+83006,2023-11-18 22.49.53,Status,Source A Cooling Down,Fault Action13
+83007,2023-11-18 22.49.53,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83008,2023-11-18 22.49.53,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83009,2023-11-18 22.49.55,Status,Source A Stopped,SrcA Cooling Down
+83010,2023-11-18 22.49.55,Status,Start Source A,Operation Auto Inverter Only
+83011,2023-11-18 22.49.56,Status,Source A Warming Up,SrcA Startup
+83012,2023-11-18 22.50.43,Status,Sync OK,Inv Source Tracking
+83013,2023-11-18 22.50.44,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83014,2023-11-18 22.50.44,Status,Parallel Mode,Operation Auto Inverter Only
+83015,2023-11-19 04.32.23,Status,Emergency Stop,IN10 Digital Input Emergency Stop DSP
+83016,2023-11-19 04.32.23,Status,Source A Cooling Down,Operation System Off
+83017,2023-11-19 04.32.23,Status,Inverter Stopped,Operation System Off
+83018,2023-11-19 04.32.23,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83019,2023-11-19 04.32.23,Status,Inverter CB Opened,Inv CB Waiting for Opened
+83020,2023-11-19 04.32.25,Status,Source A Stopped,SrcA Cooling Down
+83021,2023-11-25 11.57.48,User,Man Inv Only Mode,HMI_Manual_Inverter
+83022,2023-11-25 11.57.48,User,Inverter Started,HMI_Manual_Inverter
+83023,2023-11-25 11.57.50,Status,Inverter CB Closed,Inv CB Waiting for Closed
+83024,2023-11-25 11.57.52,User,Auto Inv Only Mode,HMI_Full_Auto
+83025,2023-11-25 11.57.52,Status,Start Source A,Operation Auto Inverter Only
+83026,2023-11-25 11.57.53,Status,Source A Warming Up,SrcA Startup
+83027,2023-11-25 11.58.39,Status,Sync OK,Inv Source Tracking
+83028,2023-11-25 11.58.39,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83029,2023-11-25 11.58.39,Status,Parallel Mode,Operation Auto Inverter Only
+83030,2023-11-25 16.36.34,Status,Source Stop Low AC V,None
+83031,2023-11-25 16.36.34,Status,Source A Cooling Down,Fault Action13
+83032,2023-11-25 16.36.34,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83033,2023-11-25 16.36.34,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83034,2023-11-25 16.36.37,Status,Source A Stopped,SrcA Cooling Down
+83035,2023-11-25 16.36.37,Status,Start Source A,Operation Auto Inverter Only
+83036,2023-11-25 16.36.38,Status,Source A Warming Up,SrcA Startup
+83037,2023-11-25 16.37.24,Status,Sync OK,Inv Source Tracking
+83038,2023-11-25 16.37.24,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83039,2023-11-25 16.37.24,Status,Parallel Mode,Operation Auto Inverter Only
+83040,2023-11-26 01.24.59,Status,Emergency Stop,IN10 Digital Input Emergency Stop DSP
+83041,2023-11-26 01.24.59,Status,Source A Cooling Down,Operation System Off
+83042,2023-11-26 01.24.59,Status,Inverter Stopped,Operation System Off
+83043,2023-11-26 01.24.59,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83044,2023-11-26 01.24.59,Status,Inverter CB Opened,Inv CB Waiting for Opened
+83045,2023-11-26 01.25.01,Status,Source A Stopped,SrcA Cooling Down
+83046,2023-11-26 01.25.05,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83047,2023-11-26 08.58.13,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83048,2023-11-26 09.39.07,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83049,2023-11-26 10.13.31,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83050,2023-11-26 10.19.39,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83051,2023-11-26 10.23.52,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83052,2023-11-26 10.29.28,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83053,2023-11-27 11.46.18,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83054,2023-11-27 11.49.22,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83055,2023-11-27 11.54.31,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83056,2023-11-27 11.58.54,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83057,2023-11-28 09.29.54,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83058,2023-11-28 12.06.39,User,Auto Inv Only Mode,HMI_Full_Auto
+83059,2023-11-28 12.06.39,Status,Inverter Started,Operation Auto Inverter Only
+83060,2023-11-28 12.06.39,Status,Start Source A,Operation Auto Inverter Only
+83061,2023-11-28 12.06.40,Status,Source A Warming Up,SrcA Startup
+83062,2023-11-28 12.06.41,Status,Inverter CB Closed,Inv CB Waiting for Closed
+83063,2023-11-28 12.07.27,Status,Sync OK,Inv Source Tracking
+83064,2023-11-28 12.07.28,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83065,2023-11-28 12.07.28,Status,Parallel Mode,Operation Auto Inverter Only
+83066,2023-11-28 12.13.50,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83067,2023-11-28 12.36.13,Status,Source Stop Low AC V,None
+83068,2023-11-28 12.36.13,Status,Source A Cooling Down,Fault Action13
+83069,2023-11-28 12.36.13,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83070,2023-11-28 12.36.13,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83071,2023-11-28 12.36.15,Status,Source A Stopped,SrcA Cooling Down
+83072,2023-11-28 12.36.15,Status,Start Source A,Operation Auto Inverter Only
+83073,2023-11-28 12.36.16,Status,Source A Warming Up,SrcA Startup
+83074,2023-11-28 12.37.03,Status,Sync OK,Inv Source Tracking
+83075,2023-11-28 12.37.03,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83076,2023-11-28 12.37.03,Status,Parallel Mode,Operation Auto Inverter Only
+83077,2023-11-28 14.41.36,Status,Source Stop Low AC V,None
+83078,2023-11-28 14.41.36,Status,Source A Cooling Down,Fault Action13
+83079,2023-11-28 14.41.36,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83080,2023-11-28 14.41.36,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83081,2023-11-28 14.41.39,Status,Source A Stopped,SrcA Cooling Down
+83082,2023-11-28 14.41.39,Status,Start Source A,Operation Auto Inverter Only
+83083,2023-11-28 14.41.40,Status,Source A Warming Up,SrcA Startup
+83084,2023-11-28 14.42.30,Status,Sync OK,Inv Source Tracking
+83085,2023-11-28 14.42.30,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83086,2023-11-28 14.42.30,Status,Parallel Mode,Operation Auto Inverter Only
+83087,2023-11-28 16.24.44,Status,Source Stop Low AC V,None
+83088,2023-11-28 16.24.44,Status,Source A Cooling Down,Fault Action13
+83089,2023-11-28 16.24.44,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83090,2023-11-28 16.24.44,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83091,2023-11-28 16.24.46,Status,Source A Stopped,SrcA Cooling Down
+83092,2023-11-28 16.24.47,Status,Start Source A,Operation Auto Inverter Only
+83093,2023-11-28 16.24.48,Status,Source A Warming Up,SrcA Startup
+83094,2023-11-28 16.25.36,Status,Sync OK,Inv Source Tracking
+83095,2023-11-28 16.25.36,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83096,2023-11-28 16.25.36,Status,Parallel Mode,Operation Auto Inverter Only
+83097,2023-11-29 10.19.57,Status,Source Stop Low AC V,None
+83098,2023-11-29 10.19.57,Status,Source A Cooling Down,Fault Action13
+83099,2023-11-29 10.19.57,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83100,2023-11-29 10.19.57,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83101,2023-11-29 10.19.59,Status,Source A Stopped,SrcA Cooling Down
+83102,2023-11-29 10.19.59,Status,Start Source A,Operation Auto Inverter Only
+83103,2023-11-29 10.20.00,Status,Source A Warming Up,SrcA Startup
+83104,2023-11-29 10.20.52,Status,Sync OK,Inv Source Tracking
+83105,2023-11-29 10.20.52,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83106,2023-11-29 10.20.52,Status,Parallel Mode,Operation Auto Inverter Only
+83107,2023-11-29 10.44.06,Status,Source Stop Low AC V,None
+83108,2023-11-29 10.44.06,Status,Source A Cooling Down,Fault Action13
+83109,2023-11-29 10.44.06,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83110,2023-11-29 10.44.06,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83111,2023-11-29 10.44.09,Status,Source A Stopped,SrcA Cooling Down
+83112,2023-11-29 10.44.09,Status,Start Source A,Operation Auto Inverter Only
+83113,2023-11-29 10.44.10,Status,Source A Warming Up,SrcA Startup
+83114,2023-11-29 10.44.59,Status,Sync OK,Inv Source Tracking
+83115,2023-11-29 10.44.59,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83116,2023-11-29 10.44.59,Status,Parallel Mode,Operation Auto Inverter Only
+83117,2023-11-29 11.32.30,Status,Source Stop Low AC V,None
+83118,2023-11-29 11.32.30,Status,Source A Cooling Down,Fault Action13
+83119,2023-11-29 11.32.30,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83120,2023-11-29 11.32.30,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83121,2023-11-29 11.32.33,Status,Source A Stopped,SrcA Cooling Down
+83122,2023-11-29 11.32.33,Status,Start Source A,Operation Auto Inverter Only
+83123,2023-11-29 11.32.34,Status,Source A Warming Up,SrcA Startup
+83124,2023-11-29 11.32.36,Status,Solar Control Disabled,Fault Action10
+83125,2023-11-29 11.32.42,Fault,High DC Volts,None
+83126,2023-11-29 11.33.23,Status,Sync OK,Inv Source Tracking
+83127,2023-11-29 11.33.24,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83128,2023-11-29 11.33.24,Status,Parallel Mode,Operation Auto Inverter Only
+83129,2023-11-29 12.13.47,Status,Source Stop Low AC V,None
+83130,2023-11-29 12.13.47,Status,Source A Cooling Down,Fault Action13
+83131,2023-11-29 12.13.47,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83132,2023-11-29 12.13.47,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83133,2023-11-29 12.13.49,Status,Source A Stopped,SrcA Cooling Down
+83134,2023-11-29 12.13.49,Status,Start Source A,Operation Auto Inverter Only
+83135,2023-11-29 12.13.51,Status,Source A Warming Up,SrcA Startup
+83136,2023-11-29 12.14.38,Status,Sync OK,Inv Source Tracking
+83137,2023-11-29 12.14.38,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83138,2023-11-29 12.14.38,Status,Parallel Mode,Operation Auto Inverter Only
+83139,2023-11-29 14.51.16,Status,Source Stop Low AC V,None
+83141,2023-11-29 14.51.16,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83142,2023-11-29 14.51.16,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83143,2023-11-29 14.51.19,Status,Source A Stopped,SrcA Cooling Down
+83144,2023-11-29 14.51.19,Status,Start Source A,Operation Auto Inverter Only
+83145,2023-11-29 14.51.20,Status,Source A Warming Up,SrcA Startup
+83146,2023-11-29 14.52.13,Status,Sync OK,Inv Source Tracking
+83147,2023-11-29 14.52.13,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83148,2023-11-29 14.52.14,Status,Parallel Mode,Operation Auto Inverter Only
+83149,2023-11-29 16.29.05,Status,Source Stop Low AC V,None
+83150,2023-11-29 16.29.05,Status,Source A Cooling Down,Fault Action13
+83151,2023-11-29 16.29.05,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83152,2023-11-29 16.29.05,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83153,2023-11-29 16.29.07,Status,Source A Stopped,SrcA Cooling Down
+83154,2023-11-29 16.29.07,Status,Start Source A,Operation Auto Inverter Only
+83155,2023-11-29 16.29.08,Status,Source A Warming Up,SrcA Startup
+83156,2023-11-29 16.29.56,Status,Sync OK,Inv Source Tracking
+83157,2023-11-29 16.29.56,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83158,2023-11-29 16.29.56,Status,Parallel Mode,Operation Auto Inverter Only
+83159,2023-11-30 06.09.52,Status,Source Stop Low AC V,None
+83160,2023-11-30 06.09.52,Status,Source A Cooling Down,Fault Action13
+83161,2023-11-30 06.09.52,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83162,2023-11-30 06.09.52,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83163,2023-11-30 06.09.54,Status,Source A Stopped,SrcA Cooling Down
+83164,2023-11-30 06.09.54,Status,Start Source A,Operation Auto Inverter Only
+83165,2023-11-30 06.09.55,Status,Source A Warming Up,SrcA Startup
+83166,2023-11-30 06.10.45,Status,Sync OK,Inv Source Tracking
+83167,2023-11-30 06.10.45,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83168,2023-11-30 06.10.45,Status,Parallel Mode,Operation Auto Inverter Only
+83169,2023-11-30 10.01.52,Status,Source Stop Low AC V,None
+83170,2023-11-30 10.01.52,Status,Source A Cooling Down,Fault Action13
+83171,2023-11-30 10.01.52,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83172,2023-11-30 10.01.52,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83173,2023-11-30 10.01.55,Status,Source A Stopped,SrcA Cooling Down
+83174,2023-11-30 10.01.55,Status,Start Source A,Operation Auto Inverter Only
+83175,2023-11-30 10.01.56,Status,Source A Warming Up,SrcA Startup
+83176,2023-11-30 10.02.45,Status,Sync OK,Inv Source Tracking
+83177,2023-11-30 10.02.46,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83178,2023-11-30 10.02.46,Status,Parallel Mode,Operation Auto Inverter Only
+83179,2023-11-30 10.25.20,Status,Source Stop Low AC V,None
+83180,2023-11-30 10.25.20,Status,Source A Cooling Down,Fault Action13
+83181,2023-11-30 10.25.20,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83182,2023-11-30 10.25.20,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83183,2023-11-30 10.25.22,Status,Source A Stopped,SrcA Cooling Down
+83184,2023-11-30 10.25.23,Status,Start Source A,Operation Auto Inverter Only
+83185,2023-11-30 10.25.24,Status,Source A Warming Up,SrcA Startup
+83186,2023-11-30 10.26.13,Status,Sync OK,Inv Source Tracking
+83187,2023-11-30 10.26.13,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83188,2023-11-30 10.26.13,Status,Parallel Mode,Operation Auto Inverter Only
+83189,2023-11-30 10.59.09,Status,Source Stop Low AC V,None
+83190,2023-11-30 10.59.09,Status,Source A Cooling Down,Fault Action13
+83191,2023-11-30 10.59.09,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83192,2023-11-30 10.59.09,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83193,2023-11-30 10.59.11,Status,Source A Stopped,SrcA Cooling Down
+83194,2023-11-30 10.59.11,Status,Start Source A,Operation Auto Inverter Only
+83195,2023-11-30 10.59.12,Status,Source A Warming Up,SrcA Startup
+83196,2023-11-30 11.00.03,Status,Sync OK,Inv Source Tracking
+83197,2023-11-30 11.00.03,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83198,2023-11-30 11.00.04,Status,Parallel Mode,Operation Auto Inverter Only
+83199,2023-11-30 11.23.41,Status,Emergency Stop,IN10 Digital Input Emergency Stop DSP
+83200,2023-11-30 11.23.41,Status,Source A Cooling Down,Operation System Off
+83201,2023-11-30 11.23.41,Status,Inverter Stopped,Operation System Off
+83202,2023-11-30 11.23.41,Status,Inverter CB Opened,Inv CB Waiting for Opened
+83203,2023-11-30 11.23.41,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83204,2023-11-30 11.23.44,Status,Source A Stopped,SrcA Cooling Down
+83205,2023-11-30 13.10.16,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83206,2023-11-30 14.16.27,User,Auto Inv Only Mode,HMI_Full_Auto
+83207,2023-11-30 14.16.27,Status,Inverter Started,Operation Auto Inverter Only
+83208,2023-11-30 14.16.27,Status,Start Source A,Operation Auto Inverter Only
+83209,2023-11-30 14.16.28,Status,Source A Warming Up,SrcA Startup
+83210,2023-11-30 14.16.29,Status,Inverter CB Closed,Inv CB Waiting for Closed
+83211,2023-11-30 14.17.17,Status,Sync OK,Inv Source Tracking
+83212,2023-11-30 14.17.17,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83213,2023-11-30 14.17.17,Status,Parallel Mode,Operation Auto Inverter Only
+83215,2023-11-30 14.17.58,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83216,2023-11-30 14.34.57,Status,Emergency Stop,IN10 Digital Input Emergency Stop DSP
+83217,2023-11-30 14.34.57,Status,Source A Cooling Down,Operation System Off
+83218,2023-11-30 14.34.57,Status,Inverter Stopped,Operation System Off
+83219,2023-11-30 14.34.58,Status,Inverter CB Opened,Inv CB Waiting for Opened
+83220,2023-11-30 14.34.58,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83221,2023-11-30 14.35.00,Status,Source A Stopped,SrcA Cooling Down
+83222,2023-11-30 14.42.49,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83223,2023-11-30 14.43.23,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83224,2023-11-30 15.23.31,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83225,2023-11-30 15.35.17,User,Auto Inv Only Mode,HMI_Full_Auto
+83226,2023-11-30 15.35.17,Status,Inverter Started,Operation Auto Inverter Only
+83227,2023-11-30 15.35.17,Status,Start Source A,Operation Auto Inverter Only
+83228,2023-11-30 15.35.18,Status,Source A Warming Up,SrcA Startup
+83229,2023-11-30 15.35.19,Status,Inverter CB Closed,Inv CB Waiting for Closed
+83230,2023-11-30 15.36.05,Status,Sync OK,Inv Source Tracking
+83231,2023-11-30 15.36.05,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83232,2023-11-30 15.36.06,Status,Parallel Mode,Operation Auto Inverter Only
+83233,2023-11-30 15.36.50,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83234,2023-11-30 15.37.40,User,Fault Reset,HMI_Fault_Reset
+83235,2023-11-30 15.38.09,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83236,2023-11-30 15.40.46,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83237,2023-11-30 15.49.10,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83238,2023-12-01 10.03.49,Status,Source Stop Low AC V,None
+83239,2023-12-01 10.03.49,Status,Source A Cooling Down,Fault Action13
+83240,2023-12-01 10.03.49,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+83241,2023-12-01 10.03.49,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83242,2023-12-01 10.03.51,Status,Source A Stopped,SrcA Cooling Down
+83243,2023-12-01 10.03.52,Status,Start Source A,Operation Auto Inverter Only
+83244,2023-12-01 10.03.53,Status,Source A Warming Up,SrcA Startup
+83245,2023-12-01 10.04.40,Status,Sync OK,Inv Source Tracking
+83246,2023-12-01 10.04.40,Status,Source A CB Closed,SrcA CB Waiting for Closed
+83247,2023-12-01 10.04.40,Status,Parallel Mode,Operation Auto Inverter Only
+83248,2023-12-01 10.08.42,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83249,2023-12-01 10.51.25,Status,Emergency Stop,IN10 Digital Input Emergency Stop DSP
+83250,2023-12-01 10.51.25,Status,Source A Cooling Down,Operation System Off
+83251,2023-12-01 10.51.25,Status,Inverter Stopped,Operation System Off
+83252,2023-12-01 10.51.26,Status,Inverter CB Opened,Inv CB Waiting for Opened
+83253,2023-12-01 10.51.26,Status,Source A CB Opened,SrcA CB Waiting for Opened
+83254,2023-12-01 10.51.28,Status,Source A Stopped,SrcA Cooling Down
+83255,2023-12-01 13.23.52,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83256,2023-12-01 13.28.52,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83257,2023-12-01 13.35.09,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+83258,2023-12-01 13.37.03,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+83259,2023-12-01 13.53.04,User,Auto Inv Only Mode,HMI_Full_Auto
