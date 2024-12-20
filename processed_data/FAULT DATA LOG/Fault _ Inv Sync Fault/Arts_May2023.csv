@@ -1,0 +1,2 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh,DNI,norm DNI,calls norm DNI
+2023-05-23,17.35.28.68,Fault : Inv Sync Fault,Inv Request Source Tracking,0.9,0.9,2.9,42.3,252.0,192464.3,56909.7,46954.2,294663.5,0.0,0.0,383584.5,17730.2,76939.4,219251.3,42.0,0.2295081967213114,Inspecting

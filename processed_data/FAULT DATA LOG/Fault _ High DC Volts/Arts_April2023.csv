@@ -1,0 +1,4 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh,DNI,norm DNI,calls norm DNI
+2023-04-23,10.55.50.07,Fault : High DC Volts,,0.8,0.8,1.8,33.6,863,191235.3,56782.6,46564.1,293527.4,0,0,381720.2,17651.9,76846.7,217388.7,143.83333333333331,0.7085385878489325,Running
+2023-04-23,13.32.23.38,Fault : High DC Volts,,1.0,1.0,1.9,35.1,810,191238.9,56783.1,46566.9,293529.4,0,0,381722.5,17652.1,76846.9,217394.4,135.0,0.6650246305418719,Monitoring
+2023-04-23,15.17.41.74,Fault : High DC Volts,,1.7,1.7,2.4,35.9,1049,191245.8,56783.1,46572.1,293529.5,0,0,381724.2,17652.1,76847.0,217403.6,174.83333333333331,0.8612479474548439,Running

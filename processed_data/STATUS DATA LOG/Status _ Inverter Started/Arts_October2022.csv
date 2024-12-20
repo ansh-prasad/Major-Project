@@ -1,0 +1,2 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh,DNI,norm DNI,calls norm DNI
+2022-10-11,21.27.02.93,Status : Inverter Started,Operation Auto Source A Only,-0.3,0.8,0.0,28.8,24.0,190405.6,56701.6,46335.5,287064.0,0.0,0.0,374736.5,17329.9,76627.7,215826.2,4.0,0.0209059233449477,Inspecting

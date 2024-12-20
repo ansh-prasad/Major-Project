@@ -1,0 +1,2 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh,DNI,norm DNI,calls norm DNI
+2023-04-07,09.32.10.59,User : Remote GSM disconnected,,0.0,0.7,0.4,31.4,357,190811.9,56741.5,46435.9,293075.7,0,0,381014.3,17611.4,76800.6,216795.3,59.5,0.293103448275862,Inspecting

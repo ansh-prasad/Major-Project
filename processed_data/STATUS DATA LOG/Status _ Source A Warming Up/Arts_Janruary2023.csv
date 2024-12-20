@@ -1,0 +1,3 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh,DNI,norm DNI,calls norm DNI
+2023-01-04,16.24.38.62,Status : Source A Warming Up,SrcA Startup,0,0.0,0.1,19.1,352,190811.9,56741.5,46435.9,289992.0,0,0,377930.5,17492.1,76725.4,216545.0,58.66666666666666,0.3400966183574879,Monitoring
+2023-01-17,17.56.01.48,Status : Source A Warming Up,SrcA Startup,0,0.0,0.1,21.1,162,190811.9,56741.5,46435.9,290376.5,0,0,378315.0,17509.8,76732.3,216571.0,27.0,0.1565217391304348,Inspecting

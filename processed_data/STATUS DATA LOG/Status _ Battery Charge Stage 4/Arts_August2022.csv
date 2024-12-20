@@ -1,0 +1,2 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh,DNI,norm DNI,calls norm DNI
+2022-08-31,11.35.56.66,Status : Battery Charge Stage 4,SP70 Batt Float Cell Volts,8.8,8.7,10.1,42.8,842.0,188963.4,56506.6,46058.5,285327.7,0.0,0.0,372030.0,16958.2,76315.7,213644.5,140.33333333333331,0.5912921348314606,Monitoring

@@ -1,0 +1,5 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh,DNI,norm DNI,calls norm DNI
+2023-04-15,07.15.02.21,Status : Solar Control Disabled,SP99 Solar MPPT Min Chg Amps,-0.3,0.8,0.0,28.3,36,190870.4,56749.4,46467.0,293132.9,0,0,381091.1,17619.0,76807.5,216876.6,6.0,0.0295566502463054,Inspecting
+2023-04-23,10.55.03.97,Status : Solar Control Disabled,Fault Action10,0.6,0.6,0.2,34.1,862,191235.3,56782.6,46564.1,293527.4,0,0,381720.2,17651.8,76846.7,217388.6,143.66666666666666,0.7077175697865352,Running
+2023-04-23,13.31.39.78,Status : Solar Control Disabled,Fault Action10,0.9,0.9,0.3,35.0,1113,191238.9,56783.1,46566.9,293529.4,0,0,381722.5,17652.1,76846.9,217394.3,185.5,0.913793103448276,Running
+2023-04-23,15.16.58.73,Status : Solar Control Disabled,Fault Action10,1.6,1.5,0.2,35.6,1050,191245.8,56783.1,46572.1,293529.5,0,0,381724.2,17652.1,76846.9,217403.6,175.0,0.8620689655172413,Running
