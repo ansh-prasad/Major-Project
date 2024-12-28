@@ -1,7 +1,9 @@
+''' in this new dni _class commit we along side created lag features'''
+
 import os
 import pandas as pd
 
-def process_files(input_folder):
+def process_files(input_folder, max_lags= 3):
     for filename in os.listdir(input_folder):
         if filename.endswith(".csv"):  # Process only CSV files
             file_path = os.path.join(input_folder, filename)
@@ -42,6 +44,19 @@ def process_files(input_folder):
 
                 df['calls norm DNI'] = df['norm DNI'].apply(classify_dni)
 
+                # Create lag features for specified columns
+                lag_columns = [
+                    "Inv kW Sum (kW)", "Load kW Sum (kW)", "Solar kW (kW)", "Ambient Temp (C)", 
+                    "Solar Radiation (W/m2)", "Inv Exp kWh", "Inv Imp kWh", "Src A Exp kWh", 
+                    "Src A Imp kWh", "Src B Exp kWh", "Src B Imp kWh", "Site kWh (calc)", 
+                    "Batt Exp kWh", "Batt Imp kWh", "Solar kWh"
+                ]
+
+                for col in lag_columns:
+                    for lag in range(1, max_lags + 1):
+                        lag_col_name = f"{col}_lag{lag}"
+                        df[lag_col_name] = df[col].shift(lag)
+
                 # Save the updated file back to the same folder
                 df.to_csv(file_path, index=False)
 
@@ -54,5 +69,5 @@ if __name__ == "__main__":
     # Define the folder containing the modified raw data
     input_folder = os.path.join(os.getcwd(), "modified_raw_data")
 
-    # Process the files
-    process_files(input_folder)
+    # Process the files with up to 3 lags
+    process_files(input_folder, max_lags=3)
