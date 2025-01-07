@@ -2,8 +2,8 @@ import os
 import pandas as pd
 
 # Define the folder paths
-input_folder = "modified_raw_data"
-output_folder = "processed_data"
+input_folder = "testss"
+output_folder = "processed_test_data"
 
 # Define the categories and their subfolders
 categories = {

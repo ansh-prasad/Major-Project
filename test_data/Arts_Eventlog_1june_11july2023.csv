@@ -1,0 +1,1356 @@
+V_A10
+2023-07-11 11.34.43
+Event #,DateTime,Type,Value,Trigger
+40227,2023-06-03 20.39.56,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+40228,2023-06-04 06.49.29,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+40229,2023-06-04 11.25.09,Status,Source Stop Low AC V,None
+40230,2023-06-04 11.25.09,Status,Source A Cooling Down,Fault Action13
+40231,2023-06-04 11.25.09,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40232,2023-06-04 11.25.09,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40233,2023-06-04 11.25.11,Status,Source A Stopped,SrcA Cooling Down
+40234,2023-06-04 14.50.31,Status,Start Source A,Operation Auto Inverter Only
+40235,2023-06-04 14.50.32,Status,Source A Cooling Down,Operation Auto Inverter Only
+40236,2023-06-04 14.50.34,Status,Source A Stopped,SrcA Cooling Down
+40237,2023-06-04 15.02.10,Status,Start Source A,Operation Auto Inverter Only
+40238,2023-06-04 15.02.11,Status,Source A Warming Up,SrcA Startup
+40239,2023-06-04 15.03.03,Status,Sync OK,Inv Source Tracking
+40240,2023-06-04 15.03.04,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40241,2023-06-04 15.03.04,Status,Parallel Mode,Operation Auto Inverter Only
+40242,2023-06-04 22.52.15,Status,Source Stop Low AC V,None
+40243,2023-06-04 22.52.15,Status,Source A Cooling Down,Fault Action13
+40244,2023-06-04 22.52.15,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40245,2023-06-04 22.52.15,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40246,2023-06-04 22.52.18,Status,Source A Stopped,SrcA Cooling Down
+40247,2023-06-04 23.19.40,Status,Start Source A,Operation Auto Inverter Only
+40248,2023-06-04 23.19.41,Status,Source A Warming Up,SrcA Startup
+40249,2023-06-04 23.20.29,Status,Sync OK,Inv Source Tracking
+40250,2023-06-04 23.20.29,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40251,2023-06-04 23.20.29,Status,Parallel Mode,Operation Auto Inverter Only
+40252,2023-06-04 23.24.50,Status,Source Stop Low AC V,None
+40253,2023-06-04 23.24.50,Status,Source A Cooling Down,Fault Action13
+40254,2023-06-04 23.24.50,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40255,2023-06-04 23.24.50,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40256,2023-06-04 23.24.53,Status,Source A Stopped,SrcA Cooling Down
+40257,2023-06-04 23.24.57,Status,Start Source A,Operation Auto Inverter Only
+40258,2023-06-04 23.24.58,Status,Source A Warming Up,SrcA Startup
+40259,2023-06-04 23.25.47,Status,Sync OK,Inv Source Tracking
+40260,2023-06-04 23.25.48,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40261,2023-06-04 23.25.48,Status,Parallel Mode,Operation Auto Inverter Only
+40262,2023-06-05 02.29.18,Status,Source Stop Low AC V,None
+40263,2023-06-05 02.29.18,Status,Source A Cooling Down,Fault Action13
+40264,2023-06-05 02.29.18,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40265,2023-06-05 02.29.19,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40266,2023-06-05 02.29.21,Status,Source A Stopped,SrcA Cooling Down
+40267,2023-06-05 02.29.21,Status,Start Source A,Operation Auto Inverter Only
+40268,2023-06-05 02.29.22,Status,Source A Warming Up,SrcA Startup
+40269,2023-06-05 02.30.10,Status,Sync OK,Inv Source Tracking
+40270,2023-06-05 02.30.10,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40271,2023-06-05 02.30.10,Status,Parallel Mode,Operation Auto Inverter Only
+40272,2023-06-06 09.26.53,Status,Source Stop Low AC V,None
+40273,2023-06-06 09.26.53,Status,Source A Cooling Down,Fault Action13
+40274,2023-06-06 09.26.53,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40275,2023-06-06 09.26.53,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40276,2023-06-06 09.26.55,Status,Source A Stopped,SrcA Cooling Down
+40277,2023-06-06 09.32.43,Status,Start Source A,Operation Auto Inverter Only
+40278,2023-06-06 09.32.44,Status,Source A Warming Up,SrcA Startup
+40279,2023-06-06 09.33.34,Status,Sync OK,Inv Source Tracking
+40280,2023-06-06 09.33.34,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40281,2023-06-06 09.33.34,Status,Parallel Mode,Operation Auto Inverter Only
+40282,2023-06-06 13.01.50,Status,Source Stop Low AC V,None
+40283,2023-06-06 13.01.50,Status,Source A Cooling Down,Fault Action13
+40284,2023-06-06 13.01.50,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40285,2023-06-06 13.01.50,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40286,2023-06-06 13.01.52,Status,Source A Stopped,SrcA Cooling Down
+40287,2023-06-06 13.01.52,Status,Start Source A,Operation Auto Inverter Only
+40288,2023-06-06 13.01.54,Status,Source A Warming Up,SrcA Startup
+40289,2023-06-06 13.02.44,Status,Sync OK,Inv Source Tracking
+40290,2023-06-06 13.02.44,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40291,2023-06-06 13.02.44,Status,Parallel Mode,Operation Auto Inverter Only
+40292,2023-06-07 07.52.34,Status,Source Stop Low AC V,None
+40293,2023-06-07 07.52.34,Status,Source A Cooling Down,Fault Action13
+40294,2023-06-07 07.52.34,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40295,2023-06-07 07.52.34,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40296,2023-06-07 07.52.36,Status,Source A Stopped,SrcA Cooling Down
+40297,2023-06-07 07.52.36,Status,Start Source A,Operation Auto Inverter Only
+40298,2023-06-07 07.52.37,Status,Source A Warming Up,SrcA Startup
+40299,2023-06-07 07.53.25,Status,Sync OK,Inv Source Tracking
+40300,2023-06-07 07.53.26,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40301,2023-06-07 07.53.26,Status,Parallel Mode,Operation Auto Inverter Only
+40302,2023-06-07 12.31.22,Status,Source Stop Low AC V,None
+40303,2023-06-07 12.31.22,Status,Source A Cooling Down,Fault Action13
+40304,2023-06-07 12.31.22,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40305,2023-06-07 12.31.22,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40306,2023-06-07 12.31.25,Status,Source A Stopped,SrcA Cooling Down
+40307,2023-06-07 15.03.42,Status,Start Source A,Operation Auto Inverter Only
+40308,2023-06-07 15.03.44,Status,Source A Warming Up,SrcA Startup
+40309,2023-06-07 15.04.35,Status,Sync OK,Inv Source Tracking
+40310,2023-06-07 15.04.35,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40311,2023-06-07 15.04.35,Status,Parallel Mode,Operation Auto Inverter Only
+40312,2023-06-09 13.13.57,Status,Source Stop Low AC V,None
+40313,2023-06-09 13.13.57,Status,Source A Cooling Down,Fault Action13
+40314,2023-06-09 13.13.57,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40315,2023-06-09 13.13.57,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40316,2023-06-09 13.13.59,Status,Source A Stopped,SrcA Cooling Down
+40317,2023-06-09 13.13.59,Status,Start Source A,Operation Auto Inverter Only
+40318,2023-06-09 13.14.00,Status,Source A Warming Up,SrcA Startup
+40319,2023-06-09 13.14.47,Status,Sync OK,Inv Source Tracking
+40320,2023-06-09 13.14.47,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40321,2023-06-09 13.14.48,Status,Parallel Mode,Operation Auto Inverter Only
+40322,2023-06-09 15.53.19,Status,Source Stop Low AC V,None
+40323,2023-06-09 15.53.19,Status,Source A Cooling Down,Fault Action13
+40324,2023-06-09 15.53.19,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40325,2023-06-09 15.53.19,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40326,2023-06-09 15.53.21,Status,Source A Stopped,SrcA Cooling Down
+40327,2023-06-09 15.54.07,Status,Start Source A,Operation Auto Inverter Only
+40328,2023-06-09 15.54.08,Status,Source A Warming Up,SrcA Startup
+40329,2023-06-09 15.54.59,Status,Sync OK,Inv Source Tracking
+40330,2023-06-09 15.54.59,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40331,2023-06-09 15.54.59,Status,Parallel Mode,Operation Auto Inverter Only
+40332,2023-06-10 00.04.14,Status,Source Stop Low AC V,None
+40333,2023-06-10 00.04.14,Status,Source A Cooling Down,Fault Action13
+40334,2023-06-10 00.04.14,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40335,2023-06-10 00.04.14,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40336,2023-06-10 00.04.16,Status,Source A Stopped,SrcA Cooling Down
+40337,2023-06-10 00.08.52,Status,Start Source A,Operation Auto Inverter Only
+40338,2023-06-10 00.08.53,Status,Source A Warming Up,SrcA Startup
+40339,2023-06-10 00.09.40,Status,Sync OK,Inv Source Tracking
+40340,2023-06-10 00.09.41,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40341,2023-06-10 00.09.41,Status,Parallel Mode,Operation Auto Inverter Only
+40342,2023-06-10 08.50.04,Status,Source Stop Low AC V,None
+40343,2023-06-10 08.50.04,Status,Source A Cooling Down,Fault Action13
+40344,2023-06-10 08.50.04,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40345,2023-06-10 08.50.04,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40346,2023-06-10 08.50.06,Status,Source A Stopped,SrcA Cooling Down
+40347,2023-06-10 08.50.36,Status,Start Source A,Operation Auto Inverter Only
+40348,2023-06-10 08.50.37,Status,Source A Warming Up,SrcA Startup
+40349,2023-06-10 08.51.23,Status,Sync OK,Inv Source Tracking
+40350,2023-06-10 08.51.23,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40351,2023-06-10 08.51.23,Status,Parallel Mode,Operation Auto Inverter Only
+40352,2023-06-10 12.48.42,Status,Source Stop Low AC V,None
+40353,2023-06-10 12.48.42,Status,Source A Cooling Down,Fault Action13
+40354,2023-06-10 12.48.43,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40355,2023-06-10 12.48.43,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40356,2023-06-10 12.48.45,Status,Source A Stopped,SrcA Cooling Down
+40357,2023-06-10 12.48.45,Status,Start Source A,Operation Auto Inverter Only
+40358,2023-06-10 12.48.46,Status,Source A Warming Up,SrcA Startup
+40359,2023-06-10 12.49.35,Status,Sync OK,Inv Source Tracking
+40360,2023-06-10 12.49.35,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40361,2023-06-10 12.49.35,Status,Parallel Mode,Operation Auto Inverter Only
+40362,2023-06-10 14.51.15,Status,Source Stop Low AC V,None
+40363,2023-06-10 14.51.15,Status,Source A Cooling Down,Fault Action13
+40364,2023-06-10 14.51.16,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40365,2023-06-10 14.51.16,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40366,2023-06-10 14.51.18,Status,Source A Stopped,SrcA Cooling Down
+40367,2023-06-10 14.52.40,Status,Start Source A,Operation Auto Inverter Only
+40368,2023-06-10 14.52.41,Status,Source A Warming Up,SrcA Startup
+40369,2023-06-10 14.53.30,Status,Sync OK,Inv Source Tracking
+40370,2023-06-10 14.53.30,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40371,2023-06-10 14.53.30,Status,Parallel Mode,Operation Auto Inverter Only
+40372,2023-06-11 23.26.27,Status,Source Stop Low AC V,None
+40373,2023-06-11 23.26.27,Status,Source A Cooling Down,Fault Action13
+40374,2023-06-11 23.26.27,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40375,2023-06-11 23.26.27,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40376,2023-06-11 23.26.29,Status,Source A Stopped,SrcA Cooling Down
+40377,2023-06-11 23.28.02,Status,Start Source A,Operation Auto Inverter Only
+40378,2023-06-11 23.28.03,Status,Source A Warming Up,SrcA Startup
+40379,2023-06-11 23.28.51,Status,Sync OK,Inv Source Tracking
+40380,2023-06-11 23.28.51,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40381,2023-06-11 23.28.51,Status,Parallel Mode,Operation Auto Inverter Only
+40382,2023-06-12 15.00.23,Status,Source Stop Low AC V,None
+40383,2023-06-12 15.00.23,Status,Source A Cooling Down,Fault Action13
+40384,2023-06-12 15.00.23,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40385,2023-06-12 15.00.23,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40386,2023-06-12 15.00.25,Status,Source A Stopped,SrcA Cooling Down
+40387,2023-06-12 15.00.25,Status,Start Source A,Operation Auto Inverter Only
+40388,2023-06-12 15.00.26,Status,Source A Warming Up,SrcA Startup
+40389,2023-06-12 15.01.13,Status,Sync OK,Inv Source Tracking
+40390,2023-06-12 15.01.13,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40391,2023-06-12 15.01.13,Status,Parallel Mode,Operation Auto Inverter Only
+40392,2023-06-12 15.26.04,User,Remote GSM connected,None
+40393,2023-06-12 15.30.19,User,Remote GSM disconnected,None
+40394,2023-06-12 15.30.34,User,Remote GSM connected,None
+40395,2023-06-12 15.40.49,User,Remote GSM disconnected,None
+40396,2023-06-12 15.55.48,User,Remote GSM connected,None
+40397,2023-06-13 06.24.22,Status,Source Stop Low AC V,None
+40398,2023-06-13 06.24.22,Status,Source A Cooling Down,Fault Action13
+40399,2023-06-13 06.24.22,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40400,2023-06-13 06.24.23,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40401,2023-06-13 06.24.25,Status,Source A Stopped,SrcA Cooling Down
+40402,2023-06-13 06.24.55,User,Remote GSM disconnected,None
+40403,2023-06-13 06.27.04,Status,Start Source A,Operation Auto Inverter Only
+40404,2023-06-13 06.27.05,Status,Source A Warming Up,SrcA Startup
+40405,2023-06-13 06.27.53,Status,Sync OK,Inv Source Tracking
+40406,2023-06-13 06.27.53,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40407,2023-06-13 06.27.53,Status,Parallel Mode,Operation Auto Inverter Only
+40408,2023-06-13 12.44.26,User,Remote GSM connected,None
+40409,2023-06-13 13.16.51,Status,Source Stop Low AC V,None
+40410,2023-06-13 13.16.51,Status,Source A Cooling Down,Fault Action13
+40411,2023-06-13 13.16.51,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40412,2023-06-13 13.16.51,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40413,2023-06-13 13.16.54,Status,Source A Stopped,SrcA Cooling Down
+40414,2023-06-13 13.17.24,User,Remote GSM disconnected,None
+40415,2023-06-13 13.18.01,Status,Start Source A,Operation Auto Inverter Only
+40416,2023-06-13 13.18.02,Status,Source A Warming Up,SrcA Startup
+40417,2023-06-13 13.18.50,Status,Sync OK,Inv Source Tracking
+40418,2023-06-13 13.18.50,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40419,2023-06-13 13.18.50,Status,Parallel Mode,Operation Auto Inverter Only
+40420,2023-06-13 13.20.12,User,Remote GSM connected,None
+40421,2023-06-13 13.20.49,User,Remote GSM disconnected,None
+40422,2023-06-13 13.20.50,User,Remote GSM connected,None
+40423,2023-06-13 13.21.26,User,Remote GSM disconnected,None
+40424,2023-06-13 13.22.05,User,Remote GSM connected,None
+40425,2023-06-13 13.22.43,User,Remote GSM disconnected,None
+40426,2023-06-13 13.23.39,User,Remote GSM connected,None
+40427,2023-06-13 15.59.50,Status,Source Stop Low AC V,None
+40428,2023-06-13 15.59.50,Status,Source A Cooling Down,Fault Action13
+40429,2023-06-13 15.59.51,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40430,2023-06-13 15.59.51,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40431,2023-06-13 15.59.53,Status,Source A Stopped,SrcA Cooling Down
+40432,2023-06-13 16.00.23,User,Remote GSM disconnected,None
+40433,2023-06-13 16.01.36,Status,Start Source A,Operation Auto Inverter Only
+40434,2023-06-13 16.01.37,Status,Source A Warming Up,SrcA Startup
+40435,2023-06-13 16.02.25,Status,Sync OK,Inv Source Tracking
+40436,2023-06-13 16.02.25,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40437,2023-06-13 16.02.25,Status,Parallel Mode,Operation Auto Inverter Only
+40438,2023-06-13 16.20.30,User,Remote GSM connected,None
+40439,2023-06-13 17.29.21,User,Remote GSM disconnected,None
+40440,2023-06-13 18.04.03,User,Remote GSM connected,None
+40441,2023-06-13 20.19.21,User,Remote GSM disconnected,None
+40442,2023-06-14 01.12.16,Status,HMI Initialize ,Watchdog
+40443,2023-06-14 07.29.07,User,Remote GSM connected,None
+40444,2023-06-14 07.50.37,User,Remote GSM disconnected,None
+40445,2023-06-14 07.52.33,User,Remote GSM connected,None
+40446,2023-06-14 10.15.39,User,Remote GSM disconnected,None
+40447,2023-06-14 10.15.50,User,Remote GSM connected,None
+40448,2023-06-14 11.23.35,User,Remote GSM disconnected,None
+40449,2023-06-14 15.51.46,Status,Source Stop Low AC V,None
+40450,2023-06-14 15.51.46,Status,Source A Cooling Down,Fault Action13
+40451,2023-06-14 15.51.47,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40452,2023-06-14 15.51.47,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40453,2023-06-14 15.51.49,Status,Source A Stopped,SrcA Cooling Down
+40454,2023-06-14 15.58.40,Status,Start Source A,Operation Auto Inverter Only
+40455,2023-06-14 15.58.41,Status,Source A Warming Up,SrcA Startup
+40456,2023-06-14 15.59.28,Status,Sync OK,Inv Source Tracking
+40457,2023-06-14 15.59.28,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40458,2023-06-14 15.59.28,Status,Parallel Mode,Operation Auto Inverter Only
+40459,2023-06-14 20.43.50,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+40460,2023-06-15 06.25.43,Status,Source Stop Low AC V,None
+40461,2023-06-15 06.25.43,Status,Source A Cooling Down,Fault Action13
+40462,2023-06-15 06.25.43,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40463,2023-06-15 06.25.43,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40464,2023-06-15 06.25.45,Status,Source A Stopped,SrcA Cooling Down
+40465,2023-06-15 06.25.45,Status,Start Source A,Operation Auto Inverter Only
+40466,2023-06-15 06.25.47,Status,Source A Warming Up,SrcA Startup
+40467,2023-06-15 06.26.35,Status,Sync OK,Inv Source Tracking
+40468,2023-06-15 06.26.35,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40469,2023-06-15 06.26.35,Status,Parallel Mode,Operation Auto Inverter Only
+40470,2023-06-15 06.53.35,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+40471,2023-06-16 07.59.04,Status,Source Stop Low AC V,None
+40472,2023-06-16 07.59.04,Status,Source A Cooling Down,Fault Action13
+40473,2023-06-16 07.59.04,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40474,2023-06-16 07.59.04,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40475,2023-06-16 07.59.06,Status,Source A Stopped,SrcA Cooling Down
+40476,2023-06-16 08.00.40,Status,Start Source A,Operation Auto Inverter Only
+40477,2023-06-16 08.00.41,Status,Source A Warming Up,SrcA Startup
+40478,2023-06-16 08.01.28,Status,Sync OK,Inv Source Tracking
+40479,2023-06-16 08.01.29,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40480,2023-06-16 08.01.29,Status,Parallel Mode,Operation Auto Inverter Only
+40481,2023-06-16 10.30.00,Status,Source Stop Low AC V,None
+40482,2023-06-16 10.30.00,Status,Source A Cooling Down,Fault Action13
+40483,2023-06-16 10.30.00,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40484,2023-06-16 10.30.00,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40485,2023-06-16 10.30.03,Status,Source A Stopped,SrcA Cooling Down
+40486,2023-06-16 10.30.14,Status,Start Source A,Operation Auto Inverter Only
+40487,2023-06-16 10.30.15,Status,Source A Warming Up,SrcA Startup
+40488,2023-06-16 10.31.01,Status,Sync OK,Inv Source Tracking
+40489,2023-06-16 10.31.02,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40490,2023-06-16 10.31.02,Status,Parallel Mode,Operation Auto Inverter Only
+40491,2023-06-17 20.35.07,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+40492,2023-06-18 06.56.36,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+40493,2023-06-18 18.55.02,Status,Source Stop Low AC V,None
+40494,2023-06-18 18.55.02,Status,Source A Cooling Down,Fault Action13
+40495,2023-06-18 18.55.02,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40496,2023-06-18 18.55.02,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40497,2023-06-18 18.55.05,Status,Source A Stopped,SrcA Cooling Down
+40498,2023-06-18 18.55.05,Status,Start Source A,Operation Auto Inverter Only
+40499,2023-06-18 18.55.06,Status,Source A Warming Up,SrcA Startup
+40500,2023-06-18 18.55.56,Status,Sync OK,Inv Source Tracking
+40501,2023-06-18 18.55.56,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40502,2023-06-18 18.55.56,Status,Parallel Mode,Operation Auto Inverter Only
+40503,2023-06-20 01.47.33,Status,Source Stop Low AC V,None
+40504,2023-06-20 01.47.33,Status,Source A Cooling Down,Fault Action13
+40505,2023-06-20 01.47.33,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40506,2023-06-20 01.47.33,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40507,2023-06-20 01.47.35,Status,Source A Stopped,SrcA Cooling Down
+40508,2023-06-20 01.48.12,Status,Start Source A,Operation Auto Inverter Only
+40509,2023-06-20 01.48.14,Status,Source A Warming Up,SrcA Startup
+40510,2023-06-20 01.49.03,Status,Sync OK,Inv Source Tracking
+40511,2023-06-20 01.49.04,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40512,2023-06-20 01.49.04,Status,Parallel Mode,Operation Auto Inverter Only
+40513,2023-06-20 06.44.46,Status,Source Stop High AC V,None
+40514,2023-06-20 06.44.46,Status,Source A Cooling Down,Fault Action13
+40515,2023-06-20 06.44.46,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40516,2023-06-20 06.44.46,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40517,2023-06-20 06.44.48,Status,Source A Stopped,SrcA Cooling Down
+40518,2023-06-20 06.44.48,Status,Start Source A,Operation Auto Inverter Only
+40519,2023-06-20 06.44.49,Status,Source A Warming Up,SrcA Startup
+40520,2023-06-20 06.45.38,Status,Sync OK,Inv Source Tracking
+40521,2023-06-20 06.45.38,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40522,2023-06-20 06.45.38,Status,Parallel Mode,Operation Auto Inverter Only
+40523,2023-06-20 07.01.22,Status,Source Stop Low AC V,None
+40524,2023-06-20 07.01.22,Status,Source A Cooling Down,Fault Action13
+40525,2023-06-20 07.01.22,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40526,2023-06-20 07.01.22,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40527,2023-06-20 07.01.24,Status,Source A Stopped,SrcA Cooling Down
+40528,2023-06-20 07.03.24,Status,Start Source A,Operation Auto Inverter Only
+40529,2023-06-20 07.03.25,Status,Source A Warming Up,SrcA Startup
+40530,2023-06-20 07.04.12,Status,Sync OK,Inv Source Tracking
+40531,2023-06-20 07.04.13,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40532,2023-06-20 07.04.13,Status,Parallel Mode,Operation Auto Inverter Only
+40533,2023-06-20 15.21.04,User,Remote GSM connected,None
+40534,2023-06-20 15.22.48,User,Remote GSM disconnected,None
+40535,2023-06-20 15.36.27,User,Remote GSM connected,None
+40536,2023-06-20 15.37.10,User,Remote GSM disconnected,None
+40537,2023-06-21 11.13.26,Status,Source Stop High AC V,None
+40538,2023-06-21 11.13.26,Status,Source A Cooling Down,Fault Action13
+40539,2023-06-21 11.13.26,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40540,2023-06-21 11.13.26,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40541,2023-06-21 11.13.28,Status,Source A Stopped,SrcA Cooling Down
+40542,2023-06-21 11.13.28,Status,Start Source A,Operation Auto Inverter Only
+40543,2023-06-21 11.13.30,Status,Source A Warming Up,SrcA Startup
+40544,2023-06-21 11.14.20,Status,Sync OK,Inv Source Tracking
+40545,2023-06-21 11.14.20,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40546,2023-06-21 11.14.21,Status,Parallel Mode,Operation Auto Inverter Only
+40547,2023-06-24 00.44.48,Status,Source Stop Low AC V,None
+40548,2023-06-24 00.44.48,Status,Source A Cooling Down,Fault Action13
+40549,2023-06-24 00.44.48,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40550,2023-06-24 00.44.48,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40551,2023-06-24 00.44.51,Status,Source A Stopped,SrcA Cooling Down
+40552,2023-06-24 00.54.33,Status,Start Source A,Operation Auto Inverter Only
+40553,2023-06-24 00.54.34,Status,Source A Warming Up,SrcA Startup
+40554,2023-06-24 00.55.22,Status,Sync OK,Inv Source Tracking
+40555,2023-06-24 00.55.22,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40556,2023-06-24 00.55.22,Status,Parallel Mode,Operation Auto Inverter Only
+40557,2023-06-24 12.41.01,Status,Source Stop Low AC V,None
+40558,2023-06-24 12.41.01,Status,Source A Cooling Down,Fault Action13
+40559,2023-06-24 12.41.01,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40560,2023-06-24 12.41.01,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40561,2023-06-24 12.41.03,Status,Source A Stopped,SrcA Cooling Down
+40562,2023-06-24 12.41.20,Status,Start Source A,Operation Auto Inverter Only
+40563,2023-06-24 12.41.21,Status,Source A Warming Up,SrcA Startup
+40564,2023-06-24 12.42.13,Status,Sync OK,Inv Source Tracking
+40565,2023-06-24 12.42.14,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40566,2023-06-24 12.42.14,Status,Parallel Mode,Operation Auto Inverter Only
+40567,2023-06-25 17.19.01,Status,Source Stop High AC V,None
+40568,2023-06-25 17.19.01,Status,Source A Cooling Down,Fault Action13
+40569,2023-06-25 17.19.01,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40570,2023-06-25 17.19.01,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40571,2023-06-25 17.19.04,Status,Source A Stopped,SrcA Cooling Down
+40572,2023-06-25 17.19.04,Status,Start Source A,Operation Auto Inverter Only
+40573,2023-06-25 17.19.05,Status,Source A Warming Up,SrcA Startup
+40574,2023-06-25 17.19.53,Status,Sync OK,Inv Source Tracking
+40575,2023-06-25 17.19.54,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40576,2023-06-25 17.19.54,Status,Parallel Mode,Operation Auto Inverter Only
+40577,2023-06-25 18.02.42,Status,Source Stop High AC V,None
+40578,2023-06-25 18.02.42,Status,Source A Cooling Down,Fault Action13
+40579,2023-06-25 18.02.42,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40580,2023-06-25 18.02.42,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40581,2023-06-25 18.02.46,Status,Source A Stopped,SrcA Cooling Down
+40582,2023-06-25 18.02.46,Status,Start Source A,Operation Auto Inverter Only
+40583,2023-06-25 18.02.47,Status,Source A Warming Up,SrcA Startup
+40584,2023-06-25 18.03.34,Status,Sync OK,Inv Source Tracking
+40585,2023-06-25 18.03.35,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40586,2023-06-25 18.03.35,Status,Parallel Mode,Operation Auto Inverter Only
+40587,2023-06-25 18.04.25,Status,Source Stop High AC V,None
+40588,2023-06-25 18.04.25,Status,Source A Cooling Down,Fault Action13
+40589,2023-06-25 18.04.25,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40590,2023-06-25 18.04.25,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40591,2023-06-25 18.04.27,Status,Source A Stopped,SrcA Cooling Down
+40592,2023-06-25 18.04.27,Status,Start Source A,Operation Auto Inverter Only
+40593,2023-06-25 18.04.28,Status,Source A Warming Up,SrcA Startup
+40594,2023-06-25 18.05.17,Status,Sync OK,Inv Source Tracking
+40595,2023-06-25 18.05.18,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40596,2023-06-25 18.05.18,Status,Parallel Mode,Operation Auto Inverter Only
+40597,2023-06-25 18.06.19,Status,Source Stop High AC V,None
+40598,2023-06-25 18.06.19,Status,Source A Cooling Down,Fault Action13
+40599,2023-06-25 18.06.19,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40600,2023-06-25 18.06.19,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40601,2023-06-25 18.06.21,Status,Source A Stopped,SrcA Cooling Down
+40602,2023-06-25 18.06.21,Status,Start Source A,Operation Auto Inverter Only
+40603,2023-06-25 18.06.22,Status,Source A Warming Up,SrcA Startup
+40604,2023-06-25 18.06.59,Status,Source Stop High AC V,None
+40605,2023-06-25 18.06.59,Status,Source A Cooling Down,Fault Action13
+40606,2023-06-25 18.07.02,Status,Source A Stopped,SrcA Cooling Down
+40607,2023-06-25 18.07.02,Status,Start Source A,Operation Auto Inverter Only
+40608,2023-06-25 18.07.03,Status,Source A Warming Up,SrcA Startup
+40609,2023-06-25 18.07.39,Fault,Inv Sync Fault,Inv Request Source Tracking
+40610,2023-06-25 18.07.54,Status,Sync OK,Inv Source Tracking
+40611,2023-06-25 18.07.54,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40612,2023-06-25 18.07.55,Status,Parallel Mode,Operation Auto Inverter Only
+40613,2023-06-25 18.08.38,Status,Source Stop Low AC V,None
+40614,2023-06-25 18.08.38,Status,Source A Cooling Down,Fault Action13
+40615,2023-06-25 18.08.38,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40616,2023-06-25 18.08.38,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40617,2023-06-25 18.08.40,Status,Source A Stopped,SrcA Cooling Down
+40618,2023-06-25 18.09.28,Status,Start Source A,Operation Auto Inverter Only
+40619,2023-06-25 18.09.29,Status,Source A Warming Up,SrcA Startup
+40620,2023-06-25 18.10.15,Status,Sync OK,Inv Source Tracking
+40621,2023-06-25 18.10.15,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40622,2023-06-25 18.10.15,Status,Parallel Mode,Operation Auto Inverter Only
+40623,2023-06-26 11.15.11,Status,Source Stop High AC V,None
+40624,2023-06-26 11.15.11,Status,Source A Cooling Down,Fault Action13
+40625,2023-06-26 11.15.11,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40626,2023-06-26 11.15.11,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40627,2023-06-26 11.15.14,Status,Source A Stopped,SrcA Cooling Down
+40628,2023-06-26 11.15.14,Status,Start Source A,Operation Auto Inverter Only
+40629,2023-06-26 11.15.15,Status,Source A Warming Up,SrcA Startup
+40630,2023-06-26 11.16.04,Status,Sync OK,Inv Source Tracking
+40631,2023-06-26 11.16.04,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40632,2023-06-26 11.16.04,Status,Parallel Mode,Operation Auto Inverter Only
+40633,2023-06-26 11.39.35,User,System Off,HMI_System_Off
+40634,2023-06-26 11.39.35,Status,Source A Cooling Down,Operation System Off
+40635,2023-06-26 11.39.35,Status,Inverter Stopped,Operation System Off
+40636,2023-06-26 11.39.35,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40637,2023-06-26 11.39.35,Status,Inverter CB Opened,Inv CB Waiting for Opened
+40638,2023-06-26 11.39.38,Status,Source A Stopped,SrcA Cooling Down
+40639,2023-06-26 11.51.35,Status,MIC Initialize ,Power Up
+40640,2023-06-26 11.51.36,Status,MODEM Initialize,Power Up
+40641,2023-06-26 11.51.36,Status,Wifi Initialize,Power Up
+40642,2023-06-26 11.51.36,Status,HMI Initialize ,Power Up
+40643,2023-06-26 11.51.36,Status,System Initialise,Power Up
+40644,2023-06-26 11.51.36,Status,Battery Charge Stage 1,Operation Self Test
+40645,2023-06-26 11.51.36,Fault,Solar Earth Fault,IN27 Solar Earth Fault Input
+40646,2023-06-26 11.51.38,Status,Solar Control Enabled,Operation System Off
+40647,2023-06-26 11.55.12,Status,MIC Initialize ,Power Up
+40648,2023-06-26 11.55.13,Status,MODEM Initialize,Power Up
+40649,2023-06-26 11.55.13,Status,Wifi Initialize,Power Up
+40650,2023-06-26 11.55.13,Status,System Initialise,Power Up
+40651,2023-06-26 11.55.13,Status,Battery Charge Stage 1,Operation Self Test
+40652,2023-06-26 11.55.13,Fault,Solar Earth Fault,IN27 Solar Earth Fault Input
+40653,2023-06-26 11.55.15,Status,Solar Control Enabled,Operation System Off
+40654,2023-06-26 11.58.43,Status,HMI Initialize ,Power Up
+40655,2023-06-26 12.01.52,Status,MIC Initialize ,Power Up
+40656,2023-06-26 12.01.53,Status,MODEM Initialize,Power Up
+40657,2023-06-26 12.01.53,Status,Wifi Initialize,Power Up
+40658,2023-06-26 12.01.53,Status,System Initialise,Power Up
+40659,2023-06-26 12.01.53,Status,Battery Charge Stage 1,Operation Self Test
+40660,2023-06-26 12.01.53,Fault,Solar Earth Fault,IN27 Solar Earth Fault Input
+40661,2023-06-26 12.01.56,Status,Solar Control Enabled,Operation System Off
+40662,2023-06-26 12.02.40,Status,HMI Initialize ,Power Up
+40663,2023-06-26 12.10.41,Status,HMI Initialize ,Power Up
+40664,2023-06-26 10.55.01,User,Time Updated,None
+40665,2023-06-26 10.55.00,User,Time Updated,None
+40666,2023-06-26 10.55.00,User,Time Updated,None
+40667,2023-06-26 11.21.37,System Setpoint,Batt Amps Offset,Aux Charging
+40668,2023-06-26 11.21.44,System Setpoint,Batt Amps Offset,Aux Charging
+40669,2023-06-26 11.21.52,System Setpoint,Batt Amps Offset,Aux Charging
+40670,2023-06-26 11.52.27,Normal Setpoint,Batt Equ Cell Volts,Aux Charging
+40671,2023-06-26 11.52.32,Normal Setpoint,Batt Equ Time Interval,Aux Charging
+40672,2023-06-26 11.52.40,Normal Setpoint,Batt Equ Chg Period,Aux Charging
+40673,2023-06-26 11.52.49,Normal Setpoint,Equ Enabled,Aux Charging
+40674,2023-06-26 11.52.49,Status,Auto Equalise ON,SP73 Batt Equ Time Interval
+40675,2023-06-26 11.53.03,Normal Setpoint,Batt Min Equ Chg ,Aux Charging
+40676,2023-06-26 11.53.29,User,Manual Equalise OFF,HMI_Battery_Equalise
+40677,2023-06-26 11.53.36,User,Fault Reset,HMI_Fault_Reset
+40678,2023-06-26 11.53.42,User,Manual Equalise ON,HMI_Battery_Equalise
+40679,2023-06-26 11.57.02,Normal Setpoint,Max Batt Chg Amps,Aux Charging
+40680,2023-06-26 11.57.14,Normal Setpoint,Inv Chg Max,Aux Charging
+40681,2023-06-26 12.38.38,System Setpoint,Heat sink Temp 1,Aux Charging
+40682,2023-06-26 12.38.46,System Setpoint,Heat sink Temp 2,Aux Charging
+40683,2023-06-26 12.39.02,System Setpoint,Heat sink Temp 3,Aux Charging
+40684,2023-06-26 12.39.11,System Setpoint,Heat sink Temp 2,Aux Charging
+40685,2023-06-26 12.39.13,System Setpoint,Heat sink Temp 1,Aux Charging
+40686,2023-06-26 12.39.26,System Setpoint,Heat sink Temp 4,Aux Charging
+40687,2023-06-26 12.39.36,System Setpoint,Cabinet Temp,Aux Charging
+40688,2023-06-26 12.39.55,System Setpoint,Batt Temp,Aux Charging
+40689,2023-06-26 12.40.11,System Setpoint,Batt Temp,Aux Charging
+40690,2023-06-26 12.40.21,System Setpoint,Batt Temp,Aux Charging
+40691,2023-06-26 12.40.26,System Setpoint,Batt Temp,Aux Charging
+40692,2023-06-26 12.40.38,System Setpoint,Batt Temp,Aux Charging
+40693,2023-06-26 12.40.56,System Setpoint,Ambient Temp,Aux Charging
+40694,2023-06-26 12.42.03,System Setpoint,Batery (VPC),Aux Charging
+40695,2023-06-26 12.42.24,System Setpoint,Batery (VPC),Aux Charging
+40696,2023-06-26 12.42.31,System Setpoint,Batery (VPC),Aux Charging
+40697,2023-06-26 12.42.42,System Setpoint,Batery (VPC),Aux Charging
+40698,2023-06-26 12.43.23,User,Man Inv Only Mode,HMI_Manual_Inverter
+40699,2023-06-26 12.43.23,User,Inverter Started,HMI_Manual_Inverter
+40700,2023-06-26 12.43.24,Status,Inverter CB Closed,Inv CB Waiting for Closed
+40701,2023-06-26 12.45.01,System Setpoint,Batt Amps Scale,Aux Charging
+40702,2023-06-26 12.45.21,System Setpoint,Batt Amps Scale,Aux Charging
+40703,2023-06-26 12.45.41,Status,Battery Charge Stage 2,SP72 Batt Equ Cell Volts
+40704,2023-06-26 12.46.03,System Setpoint,Solar Amps Scale,Aux Charging
+40705,2023-06-26 12.46.16,System Setpoint,Solar Amps Scale,Aux Charging
+40706,2023-06-26 12.46.33,System Setpoint,Solar Amps Scale,Aux Charging
+40707,2023-06-26 12.48.16,Status,Emergency Stop,IN10 Digital Input Emergency Stop DSP
+40708,2023-06-26 12.48.16,Status,Inverter Stopped,Operation System Off
+40709,2023-06-26 12.48.16,Status,Inverter CB Opened,Inv CB Waiting for Opened
+40710,2023-06-26 12.48.27,Status,Battery Charge Stage 3,SP79 Batt Min Equ Chg 
+40711,2023-06-26 12.49.27,Status,Battery Charge Stage 4,SP70 Batt Float Cell Volts
+40712,2023-06-26 12.51.22,User,Fault Reset,HMI_Fault_Reset
+40713,2023-06-26 12.51.23,User,Fault Reset,HMI_Fault_Reset
+40714,2023-06-26 12.51.23,User,Fault Reset,HMI_Fault_Reset
+40715,2023-06-26 12.53.15,Normal Setpoint,Solar Control,Aux Charging
+40716,2023-06-26 12.53.15,Status,Solar Control Disabled,Operation System Off
+40717,2023-06-26 12.53.23,Normal Setpoint,Solar Control,Aux Charging
+40718,2023-06-26 12.53.23,Status,Solar Control Enabled,Operation System Off
+40719,2023-06-26 12.53.38,User,Fault Reset,HMI_Fault_Reset
+40720,2023-06-26 12.53.42,User,Man Inv Only Mode,HMI_Manual_Inverter
+40721,2023-06-26 12.53.42,User,Inverter Started,HMI_Manual_Inverter
+40722,2023-06-26 12.53.45,Status,Inverter CB Closed,Inv CB Waiting for Closed
+40723,2023-06-26 12.56.18,System Setpoint,Instantaneous L1 Volts (Inv),Aux Charging
+40724,2023-06-26 12.56.22,System Setpoint,Instantaneous L1 Volts (Inv),Aux Charging
+40725,2023-06-26 12.56.35,System Setpoint,Instantaneous L2 Volts (Inv),Aux Charging
+40726,2023-06-26 12.56.48,System Setpoint,Instantaneous L3 Volts (Inv),Aux Charging
+40727,2023-06-26 13.03.43,Normal Setpoint,Batt Float Cell Volts,Aux Charging
+40728,2023-06-26 13.06.36,User,System Off,HMI_System_Off
+40729,2023-06-26 13.06.36,Status,Inverter Stopped,Operation System Off
+40730,2023-06-26 13.06.36,Status,Inverter CB Opened,Inv CB Waiting for Opened
+40731,2023-06-26 13.10.22,Status,MIC Initialize ,Power Up
+40732,2023-06-26 13.10.23,Status,MODEM Initialize,Power Up
+40733,2023-06-26 13.10.23,Status,Wifi Initialize,Power Up
+40734,2023-06-26 13.10.23,Status,HMI Initialize ,Power Up
+40735,2023-06-26 13.10.23,Status,System Initialise,Power Up
+40736,2023-06-26 13.10.23,Status,Battery Charge Stage 1,Operation Self Test
+40737,2023-06-26 13.10.23,Fault,Solar Earth Fault,IN27 Solar Earth Fault Input
+40738,2023-06-26 13.10.25,Status,Solar Control Enabled,Operation System Off
+40739,2023-06-26 13.10.54,Normal Setpoint,Solar Control,Aux Charging
+40740,2023-06-26 13.10.54,Status,Solar Control Disabled,Operation System Off
+40741,2023-06-26 13.12.41,Normal Setpoint,Solar Control,Aux Charging
+40742,2023-06-26 13.12.41,Status,Solar Control Enabled,Operation System Off
+40743,2023-06-26 13.12.52,User,Fault Reset,HMI_Fault_Reset
+40744,2023-06-26 13.12.54,User,Fault Reset,HMI_Fault_Reset
+40745,2023-06-26 13.12.58,User,Man Inv Only Mode,HMI_Manual_Inverter
+40746,2023-06-26 13.12.58,User,Inverter Started,HMI_Manual_Inverter
+40747,2023-06-26 13.13.01,Status,Inverter CB Closed,Inv CB Waiting for Closed
+40748,2023-06-26 13.13.06,Status,Battery Charge Stage 4,SP70 Batt Float Cell Volts
+40749,2023-06-26 13.13.47,Normal Setpoint,Heatsnk Cooling Fan Ena,Aux Charging
+40750,2023-06-26 13.14.18,Normal Setpoint,Heatsnk Cooling Fan Ena,Aux Charging
+40751,2023-06-26 13.21.20,System Setpoint,Instantaneous L2 Amps (Inv),Aux Charging
+40752,2023-06-26 13.21.29,System Setpoint,Instantaneous L2 Amps (Inv),Aux Charging
+40753,2023-06-26 13.22.03,System Setpoint,Instantaneous L3 Amps (Inv),Aux Charging
+40754,2023-06-26 13.24.36,User,Auto Inv Only Mode,HMI_Full_Auto
+40755,2023-06-26 13.24.36,Status,Start Source A,Operation Auto Inverter Only
+40756,2023-06-26 13.24.37,Status,Source A Warming Up,SrcA Startup
+40757,2023-06-26 13.25.26,Status,Sync OK,Inv Source Tracking
+40758,2023-06-26 13.25.26,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40759,2023-06-26 13.25.27,Status,Parallel Mode,Operation Auto Inverter Only
+40760,2023-06-26 13.26.24,User,System Off,HMI_System_Off
+40761,2023-06-26 13.26.24,Status,Source A Cooling Down,Operation System Off
+40762,2023-06-26 13.26.24,Status,Inverter Stopped,Operation System Off
+40763,2023-06-26 13.26.24,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40764,2023-06-26 13.26.24,Status,Inverter CB Opened,Inv CB Waiting for Opened
+40765,2023-06-26 13.26.26,Status,Source A Stopped,SrcA Cooling Down
+40766,2023-06-26 13.27.33,Fault,Bat Temp Sensor Fault,None
+40767,2023-06-26 13.33.15,User,Fault Reset,HMI_Fault_Reset
+40768,2023-06-26 13.33.19,User,Fault Reset,HMI_Fault_Reset
+40769,2023-06-26 13.33.23,User,Man Source A Only Mode,HMI_Manual_Source_A
+40770,2023-06-26 13.33.23,Status,Start Source A,HMI_Manual_Source_A
+40771,2023-06-26 13.33.24,Status,Source A Warming Up,SrcA Startup
+40772,2023-06-26 13.33.37,User,System Off,HMI_System_Off
+40773,2023-06-26 13.33.37,Status,Source A Cooling Down,Operation System Off
+40774,2023-06-26 13.33.38,User,System Off,HMI_System_Off
+40775,2023-06-26 13.33.40,Status,Source A Stopped,SrcA Cooling Down
+40776,2023-06-26 13.33.48,Normal Setpoint,Solar Control,Aux Charging
+40777,2023-06-26 13.33.48,Status,Solar Control Disabled,Operation System Off
+40778,2023-06-26 13.33.58,User,Fault Reset,HMI_Fault_Reset
+40779,2023-06-26 13.34.00,User,Man Source A Only Mode,HMI_Manual_Source_A
+40780,2023-06-26 13.34.00,Status,Start Source A,HMI_Manual_Source_A
+40781,2023-06-26 13.34.01,Status,Source A Warming Up,SrcA Startup
+40782,2023-06-26 13.34.31,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40783,2023-06-26 13.36.11,User,System Off,HMI_System_Off
+40784,2023-06-26 13.36.11,Status,Source A Cooling Down,Operation System Off
+40785,2023-06-26 13.36.12,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40786,2023-06-26 13.36.14,Status,Source A Stopped,SrcA Cooling Down
+40787,2023-06-26 13.44.01,User,Man Source A Only Mode,HMI_Manual_Source_A
+40788,2023-06-26 13.44.01,Status,Start Source A,HMI_Manual_Source_A
+40789,2023-06-26 13.44.02,Status,Source A Warming Up,SrcA Startup
+40790,2023-06-26 13.44.32,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40791,2023-06-26 13.46.12,Normal Setpoint,Solar Control,Aux Charging
+40792,2023-06-26 13.46.12,Status,Solar Control Enabled,Operation Manual Source A Only
+40793,2023-06-26 13.46.37,User,Auto Source A Only Mode,HMI_Full_Auto
+40794,2023-06-26 13.46.37,Status,Inverter Started,Operation Auto Source A Only
+40795,2023-06-26 13.46.51,Status,Sync OK,Inv Source Tracking
+40796,2023-06-26 13.46.51,Status,Inverter CB Closed,Inv CB Waiting for Closed
+40797,2023-06-26 13.46.52,Status,Parallel Mode,Operation Auto Source A Only
+40798,2023-06-26 13.55.59,Status,Source Stop High AC V,None
+40799,2023-06-26 13.55.59,Status,Source A Cooling Down,Fault Action13
+40800,2023-06-26 13.55.59,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40801,2023-06-26 13.55.59,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40802,2023-06-26 13.56.01,Status,Source A Stopped,SrcA Cooling Down
+40803,2023-06-26 13.56.01,Status,Start Source A,Operation Auto Inverter Only
+40804,2023-06-26 13.56.02,Status,Source A Warming Up,SrcA Startup
+40805,2023-06-26 13.56.50,Status,Sync OK,Inv Source Tracking
+40806,2023-06-26 13.56.51,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40807,2023-06-26 13.56.51,Status,Parallel Mode,Operation Auto Inverter Only
+40808,2023-06-26 14.06.33,User,System Off,HMI_System_Off
+40809,2023-06-26 14.06.33,Status,Source A Cooling Down,Operation System Off
+40810,2023-06-26 14.06.33,Status,Inverter Stopped,Operation System Off
+40811,2023-06-26 14.06.33,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40812,2023-06-26 14.06.34,Status,Inverter CB Opened,Inv CB Waiting for Opened
+40813,2023-06-26 14.06.36,Status,Source A Stopped,SrcA Cooling Down
+40814,2023-06-26 14.07.07,Status,MIC Initialize ,Power Up
+40815,2023-06-26 14.07.08,Status,MODEM Initialize,Power Up
+40816,2023-06-26 14.07.08,Status,System Initialise,Power Up
+40817,2023-06-26 14.07.08,Status,Battery Charge Stage 1,Operation Self Test
+40818,2023-06-26 14.07.08,Fault,Solar Earth Fault,IN27 Solar Earth Fault Input
+40819,2023-06-26 14.07.09,Status,Wifi Initialize,Power Up
+40820,2023-06-26 14.07.10,Status,Solar Control Enabled,Operation System Off
+40821,2023-06-26 14.07.26,Status,Battery Charge Stage 4,SP70 Batt Float Cell Volts
+40822,2023-06-26 14.07.29,User,Fault Reset,HMI_Fault_Reset
+40823,2023-06-26 14.07.32,User,Auto Inv Only Mode,HMI_Full_Auto
+40824,2023-06-26 14.07.32,Status,Inverter Started,Operation Auto Inverter Only
+40825,2023-06-26 14.07.32,Status,Start Source A,Operation Auto Inverter Only
+40826,2023-06-26 14.07.34,Status,Source A Warming Up,SrcA Startup
+40827,2023-06-26 14.07.34,Status,Inverter CB Closed,Inv CB Waiting for Closed
+40828,2023-06-26 14.08.23,Status,Sync OK,Inv Source Tracking
+40829,2023-06-26 14.08.23,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40830,2023-06-26 14.08.23,Status,Parallel Mode,Operation Auto Inverter Only
+40831,2023-06-28 03.13.14,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+40832,2023-06-28 05.42.12,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+40833,2023-06-28 12.34.25,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40834,2023-06-28 12.53.35,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40835,2023-06-28 12.54.05,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40836,2023-06-28 13.02.37,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40837,2023-06-28 13.04.02,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40838,2023-06-28 13.09.56,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40839,2023-06-28 13.10.27,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40840,2023-06-28 13.12.55,User,Fault Reset,HMI_Fault_Reset
+40841,2023-06-28 13.13.26,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40842,2023-06-28 13.21.02,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40843,2023-06-28 13.23.48,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40844,2023-06-28 13.30.05,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40845,2023-06-28 13.32.05,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40846,2023-06-28 13.37.26,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40847,2023-06-28 13.58.56,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40848,2023-06-28 13.59.26,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40849,2023-06-28 14.04.02,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40850,2023-06-28 14.20.54,User,System Off,HMI_System_Off
+40851,2023-06-28 14.20.54,Status,Source A Cooling Down,Operation System Off
+40852,2023-06-28 14.20.54,Status,Inverter Stopped,Operation System Off
+40853,2023-06-28 14.20.55,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40854,2023-06-28 14.20.55,Status,Inverter CB Opened,Inv CB Waiting for Opened
+40855,2023-06-28 14.20.57,Status,Source A Stopped,SrcA Cooling Down
+40856,2023-06-28 14.21.01,Status,Solar Control Disabled,Fault Action10
+40857,2023-06-28 14.21.08,Fault,High DC Volts,None
+40858,2023-06-28 14.39.38,Status,MIC Initialize ,Power Up
+40859,2023-06-28 14.39.39,Status,MODEM Initialize,Power Up
+40860,2023-06-28 14.39.39,Status,Wifi Initialize,Power Up
+40861,2023-06-28 14.39.39,Status,HMI Initialize ,Power Up
+40862,2023-06-28 14.39.39,Status,System Initialise,Power Up
+40863,2023-06-28 14.39.39,Status,Battery Charge Stage 1,Operation Self Test
+40864,2023-06-28 14.39.39,Fault,Solar Earth Fault,IN27 Solar Earth Fault Input
+40865,2023-06-28 14.39.40,User,System Off,HMI_System_Off
+40866,2023-06-28 14.39.40,Status,Solar Control Enabled,Operation System Off
+40867,2023-06-28 14.39.42,User,System Off,HMI_System_Off
+40868,2023-06-28 14.39.43,User,Fault Reset,HMI_Fault_Reset
+40869,2023-06-28 14.39.53,User,Fault Reset,HMI_Test_Mode
+40870,2023-06-28 14.39.53,Status,Inverter Started,HMI_Test_Mode
+40871,2023-06-28 14.39.57,User,Auto Inv Only Mode,HMI_Full_Auto
+40872,2023-06-28 14.39.57,Status,Emergency Stop,IN10 Digital Input Emergency Stop DSP
+40873,2023-06-28 14.39.57,Status,Inverter Stopped,Operation System Off
+40874,2023-06-28 14.40.04,User,Fault Reset,HMI_Fault_Reset
+40875,2023-06-28 14.40.20,User,Man Inv Only Mode,HMI_Manual_Inverter
+40876,2023-06-28 14.40.20,User,Inverter Started,HMI_Manual_Inverter
+40877,2023-06-28 14.40.22,Status,Inverter CB Closed,Inv CB Waiting for Closed
+40878,2023-06-28 14.40.24,User,Auto Inv Only Mode,HMI_Full_Auto
+40879,2023-06-28 14.40.37,Status,Start Source A,Operation Auto Inverter Only
+40880,2023-06-28 14.40.38,Status,Source A Warming Up,SrcA Startup
+40881,2023-06-28 14.41.29,Status,Sync OK,Inv Source Tracking
+40882,2023-06-28 14.41.29,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40883,2023-06-28 14.41.29,Status,Parallel Mode,Operation Auto Inverter Only
+40884,2023-06-28 14.42.03,Status,Source Stop Low AC V,None
+40885,2023-06-28 14.42.03,Status,Source A Cooling Down,Fault Action13
+40886,2023-06-28 14.42.03,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40887,2023-06-28 14.42.03,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40888,2023-06-28 14.42.05,Status,Source A Stopped,SrcA Cooling Down
+40889,2023-06-28 14.42.05,Status,Start Source A,Operation Auto Inverter Only
+40890,2023-06-28 14.42.06,Status,Source A Warming Up,SrcA Startup
+40891,2023-06-28 14.42.56,Status,Sync OK,Inv Source Tracking
+40892,2023-06-28 14.42.56,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40893,2023-06-28 14.42.57,Status,Parallel Mode,Operation Auto Inverter Only
+40894,2023-06-28 14.43.01,Status,Source Stop High AC V,None
+40895,2023-06-28 14.43.01,Status,Source A Cooling Down,Fault Action13
+40896,2023-06-28 14.43.01,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40897,2023-06-28 14.43.01,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40898,2023-06-28 14.43.03,Status,Source A Stopped,SrcA Cooling Down
+40899,2023-06-28 14.43.04,Status,Start Source A,Operation Auto Inverter Only
+40900,2023-06-28 14.43.05,Status,Source A Warming Up,SrcA Startup
+40901,2023-06-28 14.43.51,Status,Sync OK,Inv Source Tracking
+40902,2023-06-28 14.43.51,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40903,2023-06-28 14.43.51,Status,Parallel Mode,Operation Auto Inverter Only
+40904,2023-06-28 14.44.16,Status,Battery Charge Stage 4,SP70 Batt Float Cell Volts
+40905,2023-06-28 19.19.08,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+40906,2023-06-29 02.10.21,Status,Source Stop Low AC V,None
+40907,2023-06-29 02.10.21,Status,Source A Cooling Down,Fault Action13
+40908,2023-06-29 02.10.21,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40909,2023-06-29 02.10.21,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40910,2023-06-29 02.10.23,Status,Source A Stopped,SrcA Cooling Down
+40911,2023-06-29 02.10.23,Status,Start Source A,Operation Auto Inverter Only
+40912,2023-06-29 02.10.24,Status,Source A Warming Up,SrcA Startup
+40913,2023-06-29 02.11.11,Status,Sync OK,Inv Source Tracking
+40914,2023-06-29 02.11.11,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40915,2023-06-29 02.11.11,Status,Parallel Mode,Operation Auto Inverter Only
+40916,2023-06-29 05.52.23,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+40917,2023-06-29 19.04.30,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+40918,2023-06-30 05.54.14,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+40919,2023-06-30 19.03.24,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+40920,2023-07-01 05.51.38,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+40921,2023-07-01 18.50.36,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40922,2023-07-01 18.51.56,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40923,2023-07-01 18.54.26,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40924,2023-07-01 18.54.26,Status,Inverter Masked,Fault Action21
+40925,2023-07-01 18.54.26,Status,Source A Cooling Down,Operation System Off
+40926,2023-07-01 18.54.26,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40927,2023-07-01 18.54.26,Status,Inverter CB Opened,Inv CB Waiting for Opened
+40928,2023-07-01 18.54.28,Status,Source A Stopped,SrcA Cooling Down
+40929,2023-07-01 19.10.33,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+40930,2023-07-02 05.43.23,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+40931,2023-07-02 19.03.57,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+40932,2023-07-03 05.44.19,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+40933,2023-07-03 08.11.48,User,Fault Reset,HMI_Fault_Reset
+40934,2023-07-03 08.11.59,Fault,Spare Flt 6,None
+40935,2023-07-03 08.11.59,Status,Inverter Masked,Fault Action21
+40936,2023-07-03 10.30.47,User,Fault Reset,HMI_Fault_Reset
+40937,2023-07-03 10.30.53,User,Fault Reset,HMI_Fault_Reset
+40938,2023-07-03 10.30.58,User,Man Inv Only Mode,HMI_Manual_Inverter
+40939,2023-07-03 10.30.58,User,Inverter Started,HMI_Manual_Inverter
+40940,2023-07-03 10.31.00,Status,Inverter CB Closed,Inv CB Waiting for Closed
+40941,2023-07-03 10.31.03,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40942,2023-07-03 10.31.03,Status,Inverter Masked,Fault Action21
+40943,2023-07-03 10.31.04,Status,Inverter CB Opened,Inv CB Waiting for Opened
+40944,2023-07-03 10.33.35,User,Fault Reset,HMI_Fault_Reset
+40945,2023-07-03 10.33.37,User,Auto Inv Only Mode,HMI_Full_Auto
+40946,2023-07-03 10.33.37,Status,Inverter Started,Operation Auto Inverter Only
+40947,2023-07-03 10.33.37,Status,Start Source A,Operation Auto Inverter Only
+40948,2023-07-03 10.33.38,Status,Source A Warming Up,SrcA Startup
+40949,2023-07-03 10.33.38,Fault,Spare Flt 6,None
+40950,2023-07-03 10.33.38,Status,Inverter Masked,Fault Action21
+40951,2023-07-03 10.33.39,Status,Source A Cooling Down,Operation System Off
+40952,2023-07-03 10.33.41,Status,Source A Stopped,SrcA Cooling Down
+40953,2023-07-03 10.33.46,User,System Off,HMI_System_Off
+40954,2023-07-03 10.40.58,Status,MIC Initialize ,Power Up
+40955,2023-07-03 10.40.59,Status,MODEM Initialize,Power Up
+40956,2023-07-03 10.40.59,Status,Wifi Initialize,Power Up
+40957,2023-07-03 10.40.59,Status,System Initialise,Power Up
+40958,2023-07-03 10.40.59,Status,Battery Charge Stage 1,Operation Self Test
+40959,2023-07-03 10.40.59,Fault,Solar Earth Fault,IN27 Solar Earth Fault Input
+40960,2023-07-03 10.40.59,User,System Off,HMI_System_Off
+40961,2023-07-03 10.41.00,Status,Solar Control Enabled,Operation System Off
+40962,2023-07-03 10.41.03,User,Fault Reset,HMI_Fault_Reset
+40963,2023-07-03 10.41.11,User,Fault Reset,HMI_Test_Mode
+40964,2023-07-03 10.41.11,Status,Inverter Started,HMI_Test_Mode
+40965,2023-07-03 10.41.37,User,System Off,HMI_System_Off
+40966,2023-07-03 10.41.37,Status,Inverter Stopped,Operation System Off
+40967,2023-07-03 10.41.39,User,Fault Reset,HMI_Fault_Reset
+40968,2023-07-03 10.41.52,User,Man Inv Only Mode,HMI_Manual_Inverter
+40969,2023-07-03 10.41.52,User,Inverter Started,HMI_Manual_Inverter
+40970,2023-07-03 10.41.54,Status,Inverter CB Closed,Inv CB Waiting for Closed
+40971,2023-07-03 10.42.22,Status,Battery Charge Stage 4,SP70 Batt Float Cell Volts
+40972,2023-07-03 10.42.27,User,Auto Inv Only Mode,HMI_Full_Auto
+40973,2023-07-03 10.42.27,Status,Start Source A,Operation Auto Inverter Only
+40974,2023-07-03 10.42.28,Status,Source A Warming Up,SrcA Startup
+40975,2023-07-03 10.43.15,Status,Sync OK,Inv Source Tracking
+40976,2023-07-03 10.43.15,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40977,2023-07-03 10.43.15,Status,Parallel Mode,Operation Auto Inverter Only
+40978,2023-07-03 11.17.24,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+40979,2023-07-03 11.17.24,Status,Inverter Masked,Fault Action21
+40980,2023-07-03 11.17.24,Status,Source A Cooling Down,Operation System Off
+40981,2023-07-03 11.17.24,Status,Source A CB Opened,SrcA CB Waiting for Opened
+40982,2023-07-03 11.17.24,Status,Inverter CB Opened,Inv CB Waiting for Opened
+40983,2023-07-03 11.17.27,Status,Source A Stopped,SrcA Cooling Down
+40984,2023-07-03 12.10.57,User,Remote GSM connected,None
+40985,2023-07-03 14.15.24,User,Remote GSM disconnected,None
+40986,2023-07-03 15.36.14,User,Fault Reset,HMI_Fault_Reset
+40987,2023-07-03 15.36.33,User,Man Inv Only Mode,HMI_Manual_Inverter
+40988,2023-07-03 15.36.33,User,Inverter Started,HMI_Manual_Inverter
+40989,2023-07-03 15.36.34,Status,Inverter CB Closed,Inv CB Waiting for Closed
+40990,2023-07-03 15.36.38,User,Auto Inv Only Mode,HMI_Full_Auto
+40991,2023-07-03 15.36.38,Status,Start Source A,Operation Auto Inverter Only
+40992,2023-07-03 15.36.39,Status,Source A Warming Up,SrcA Startup
+40993,2023-07-03 15.37.30,Status,Sync OK,Inv Source Tracking
+40994,2023-07-03 15.37.30,Status,Source A CB Closed,SrcA CB Waiting for Closed
+40995,2023-07-03 15.37.31,Status,Parallel Mode,Operation Auto Inverter Only
+40996,2023-07-03 15.48.10,Status,Source Stop High AC V,None
+40997,2023-07-03 15.48.10,Status,Source A Cooling Down,Fault Action13
+40998,2023-07-03 15.48.10,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+40999,2023-07-03 15.48.10,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41000,2023-07-03 15.48.13,Status,Source A Stopped,SrcA Cooling Down
+41001,2023-07-03 15.48.13,Status,Start Source A,Operation Auto Inverter Only
+41002,2023-07-03 15.48.14,Status,Source A Warming Up,SrcA Startup
+41003,2023-07-03 15.48.37,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41004,2023-07-03 15.48.37,Status,Inverter Masked,Fault Action21
+41005,2023-07-03 15.48.37,Status,Source A Cooling Down,Operation System Off
+41006,2023-07-03 15.48.37,Status,Inverter CB Opened,Inv CB Waiting for Opened
+41007,2023-07-03 15.48.39,Status,Source A Stopped,SrcA Cooling Down
+41008,2023-07-03 16.59.41,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+41009,2023-07-05 12.03.04,Status,MIC Initialize ,Power Up
+41010,2023-07-05 12.03.05,Status,MODEM Initialize,Power Up
+41011,2023-07-05 12.03.05,Status,Wifi Initialize,Power Up
+41012,2023-07-05 12.03.05,Status,System Initialise,Power Up
+41013,2023-07-05 12.03.05,Status,Battery Charge Stage 1,Operation Self Test
+41014,2023-07-05 12.03.08,Status,Solar Control Enabled,Operation System Off
+41015,2023-07-05 12.03.17,Fault,Power Supply Fail,None
+41016,2023-07-05 12.03.18,Fault,Spare Flt 6,None
+41017,2023-07-05 12.03.18,Status,Inverter Masked,Fault Action21
+41018,2023-07-05 12.03.38,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+41019,2023-07-05 12.04.00,Fault,High Battery Temp,None
+41020,2023-07-05 12.04.01,Fault,Ambient Temp Sensor Fault,None
+41021,2023-07-05 12.04.01,Fault,Bat Temp Sensor Fault,None
+41022,2023-07-05 12.04.02,Fault,High Temp HS1,None
+41023,2023-07-05 12.04.02,Fault,High Temp HS3,None
+41024,2023-07-05 12.04.02,Fault,High Cabinet Temp,None
+41025,2023-07-05 12.04.03,Fault,High Temp HS2,None
+41026,2023-07-05 12.04.03,Fault,High Temp HS4,None
+41027,2023-07-05 12.04.04,Fault,High Battery Temp,None
+41028,2023-07-05 12.04.12,Fault,High Battery Temp,None
+41029,2023-07-05 12.04.19,Fault,High Battery Temp,None
+41030,2023-07-05 12.04.24,Fault,High Battery Temp,None
+41031,2023-07-05 12.04.31,Status,HMI Initialize ,Power Up
+41032,2023-07-05 12.04.31,Fault,High Battery Temp,None
+41033,2023-07-05 15.48.13,Status,MIC Initialize ,Power Up
+41034,2023-07-05 15.48.14,Status,MODEM Initialize,Power Up
+41035,2023-07-05 15.48.14,Status,Wifi Initialize,Power Up
+41036,2023-07-05 15.48.14,Status,System Initialise,Power Up
+41037,2023-07-05 15.48.14,Status,Battery Charge Stage 1,Operation Self Test
+41038,2023-07-05 15.48.17,Status,Solar Control Enabled,Operation System Off
+41039,2023-07-05 15.48.27,Fault,Spare Flt 6,None
+41040,2023-07-05 15.48.27,Status,Inverter Masked,Fault Action21
+41041,2023-07-05 15.48.47,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+41042,2023-07-05 15.51.40,Status,HMI Initialize ,Watchdog
+41043,2023-07-05 15.52.40,User,Fault Reset,HMI_Fault_Reset
+41044,2023-07-05 15.54.09,User,Fault Reset,HMI_Fault_Reset
+41045,2023-07-05 15.55.23,Status,MIC Initialize ,Power Up
+41046,2023-07-05 15.55.24,Status,MODEM Initialize,Power Up
+41047,2023-07-05 15.55.24,Status,Wifi Initialize,Power Up
+41048,2023-07-05 15.55.24,Status,System Initialise,Power Up
+41049,2023-07-05 15.55.24,Status,Battery Charge Stage 1,Operation Self Test
+41050,2023-07-05 15.55.26,User,System Off,HMI_System_Off
+41051,2023-07-05 15.55.26,Status,Solar Control Enabled,Operation System Off
+41052,2023-07-05 15.55.30,User,Fault Reset,HMI_Test_Mode
+41053,2023-07-05 15.55.30,Status,Inverter Started,HMI_Test_Mode
+41054,2023-07-05 15.55.34,User,System Off,HMI_System_Off
+41055,2023-07-05 15.55.34,Status,Inverter Stopped,Operation System Off
+41056,2023-07-05 15.55.44,User,Fault Reset,HMI_Test_Mode
+41057,2023-07-05 15.55.44,Status,Inverter Started,HMI_Test_Mode
+41058,2023-07-05 15.55.53,Fault,Solar Earth Fault,IN27 Solar Earth Fault Input
+41059,2023-07-05 15.55.56,User,Auto Inv Only Mode,HMI_Full_Auto
+41060,2023-07-05 15.55.56,Status,Start Source A,Operation Auto Inverter Only
+41061,2023-07-05 15.55.57,Status,Source A Warming Up,SrcA Startup
+41062,2023-07-05 15.56.02,User,System Off,HMI_System_Off
+41063,2023-07-05 15.56.02,Status,Source A Cooling Down,Operation System Off
+41064,2023-07-05 15.56.02,Status,Inverter Stopped,Operation System Off
+41065,2023-07-05 15.56.04,Status,Source A Stopped,SrcA Cooling Down
+41066,2023-07-05 15.56.05,User,Fault Reset,HMI_Fault_Reset
+41067,2023-07-05 15.56.06,User,Man Inv Only Mode,HMI_Manual_Inverter
+41068,2023-07-05 15.56.06,User,Inverter Started,HMI_Manual_Inverter
+41069,2023-07-05 15.56.09,Status,Inverter CB Closed,Inv CB Waiting for Closed
+41070,2023-07-05 15.56.10,User,Auto Inv Only Mode,HMI_Full_Auto
+41071,2023-07-05 15.56.10,Status,Start Source A,Operation Auto Inverter Only
+41072,2023-07-05 15.56.12,Status,Source A Warming Up,SrcA Startup
+41073,2023-07-05 15.56.58,Status,Sync OK,Inv Source Tracking
+41074,2023-07-05 15.56.58,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41075,2023-07-05 15.56.58,Status,Parallel Mode,Operation Auto Inverter Only
+41076,2023-07-05 15.57.09,Status,Battery Charge Stage 4,SP70 Batt Float Cell Volts
+41077,2023-07-05 19.16.53,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+41078,2023-07-06 05.55.00,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+41079,2023-07-06 11.15.56,Status,Source Stop High AC V,None
+41080,2023-07-06 11.15.56,Status,Source A Cooling Down,Fault Action13
+41081,2023-07-06 11.15.56,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41082,2023-07-06 11.15.56,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41083,2023-07-06 11.15.58,Status,Source A Stopped,SrcA Cooling Down
+41084,2023-07-06 11.15.58,Status,Start Source A,Operation Auto Inverter Only
+41085,2023-07-06 11.15.59,Status,Source A Warming Up,SrcA Startup
+41086,2023-07-06 11.16.00,Status,Solar Control Disabled,Fault Action10
+41087,2023-07-06 11.16.06,Fault,High DC Volts,None
+41088,2023-07-06 11.16.48,Status,Sync OK,Inv Source Tracking
+41089,2023-07-06 11.16.48,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41090,2023-07-06 11.16.48,Status,Parallel Mode,Operation Auto Inverter Only
+41091,2023-07-06 12.43.35,Status,Source Stop High AC V,None
+41092,2023-07-06 12.43.35,Status,Source A Cooling Down,Fault Action13
+41093,2023-07-06 12.43.35,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41094,2023-07-06 12.43.35,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41095,2023-07-06 12.43.38,Status,Source A Stopped,SrcA Cooling Down
+41096,2023-07-06 12.43.38,Status,Start Source A,Operation Auto Inverter Only
+41097,2023-07-06 12.43.39,Status,Source A Warming Up,SrcA Startup
+41098,2023-07-06 12.44.26,Status,Sync OK,Inv Source Tracking
+41099,2023-07-06 12.44.26,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41100,2023-07-06 12.44.26,Status,Parallel Mode,Operation Auto Inverter Only
+41101,2023-07-06 12.51.44,Status,HMI Initialize ,Watchdog
+41102,2023-07-06 13.00.26,Status,Source Stop High AC V,None
+41103,2023-07-06 13.00.26,Status,Source A Cooling Down,Fault Action13
+41104,2023-07-06 13.00.26,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41105,2023-07-06 13.00.26,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41106,2023-07-06 13.00.28,Status,Source A Stopped,SrcA Cooling Down
+41107,2023-07-06 13.00.28,Status,Start Source A,Operation Auto Inverter Only
+41108,2023-07-06 13.00.29,Status,Source A Warming Up,SrcA Startup
+41109,2023-07-06 13.01.17,Status,Sync OK,Inv Source Tracking
+41110,2023-07-06 13.01.18,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41111,2023-07-06 13.01.18,Status,Parallel Mode,Operation Auto Inverter Only
+41112,2023-07-06 13.03.59,Status,Source Stop High AC V,None
+41113,2023-07-06 13.03.59,Status,Source A Cooling Down,Fault Action13
+41114,2023-07-06 13.03.59,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41115,2023-07-06 13.03.59,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41116,2023-07-06 13.04.02,Status,Source A Stopped,SrcA Cooling Down
+41117,2023-07-06 13.04.02,Status,Start Source A,Operation Auto Inverter Only
+41118,2023-07-06 13.04.03,Status,Source A Warming Up,SrcA Startup
+41119,2023-07-06 13.04.03,Status,Solar Control Disabled,Fault Action10
+41120,2023-07-06 13.04.10,Fault,High DC Volts,None
+41121,2023-07-06 13.04.53,Status,Sync OK,Inv Source Tracking
+41122,2023-07-06 13.04.53,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41123,2023-07-06 13.04.53,Status,Parallel Mode,Operation Auto Inverter Only
+41124,2023-07-06 14.48.29,Status,Source Stop Low AC V,None
+41125,2023-07-06 14.48.29,Status,Source A Cooling Down,Fault Action13
+41126,2023-07-06 14.48.29,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41127,2023-07-06 14.48.29,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41128,2023-07-06 14.48.32,Status,Source A Stopped,SrcA Cooling Down
+41129,2023-07-06 15.19.42,Status,Start Source A,Operation Auto Inverter Only
+41130,2023-07-06 15.19.43,Status,Source A Cooling Down,Operation Auto Inverter Only
+41131,2023-07-06 15.19.45,Status,Source A Stopped,SrcA Cooling Down
+41132,2023-07-06 15.20.27,Status,Start Source A,Operation Auto Inverter Only
+41133,2023-07-06 15.20.28,Status,Source A Warming Up,SrcA Startup
+41134,2023-07-06 15.21.20,Status,Sync OK,Inv Source Tracking
+41135,2023-07-06 15.21.20,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41136,2023-07-06 15.21.20,Status,Parallel Mode,Operation Auto Inverter Only
+41137,2023-07-06 15.43.21,Status,HMI Initialize ,Watchdog
+41138,2023-07-06 19.15.40,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+41139,2023-07-07 06.08.25,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+41140,2023-07-07 12.03.32,Status,Source Stop Low AC V,None
+41141,2023-07-07 12.03.32,Status,Source A Cooling Down,Fault Action13
+41142,2023-07-07 12.03.33,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41143,2023-07-07 12.03.33,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41144,2023-07-07 12.03.35,Status,Source A Stopped,SrcA Cooling Down
+41145,2023-07-07 12.04.08,Status,Start Source A,Operation Auto Inverter Only
+41146,2023-07-07 12.04.09,Status,Source A Warming Up,SrcA Startup
+41147,2023-07-07 12.04.57,Status,Sync OK,Inv Source Tracking
+41148,2023-07-07 12.04.57,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41149,2023-07-07 12.04.57,Status,Parallel Mode,Operation Auto Inverter Only
+41150,2023-07-07 19.07.43,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+41151,2023-07-08 05.55.56,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+41152,2023-07-08 06.33.17,Status,Source Stop High AC V,None
+41153,2023-07-08 06.33.17,Status,Source A Cooling Down,Fault Action13
+41154,2023-07-08 06.33.17,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41155,2023-07-08 06.33.17,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41156,2023-07-08 06.33.20,Status,Source A Stopped,SrcA Cooling Down
+41157,2023-07-08 06.33.20,Status,Start Source A,Operation Auto Inverter Only
+41158,2023-07-08 06.33.21,Status,Source A Warming Up,SrcA Startup
+41159,2023-07-08 06.34.10,Status,Sync OK,Inv Source Tracking
+41160,2023-07-08 06.34.10,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41161,2023-07-08 06.34.11,Status,Parallel Mode,Operation Auto Inverter Only
+41162,2023-07-08 06.35.06,Status,Source Stop High AC V,None
+41163,2023-07-08 06.35.06,Status,Source A Cooling Down,Fault Action13
+41164,2023-07-08 06.35.06,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41165,2023-07-08 06.35.06,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41166,2023-07-08 06.35.08,Status,Source A Stopped,SrcA Cooling Down
+41167,2023-07-08 06.35.09,Status,Start Source A,Operation Auto Inverter Only
+41168,2023-07-08 06.35.10,Status,Source A Warming Up,SrcA Startup
+41169,2023-07-08 06.36.00,Status,Sync OK,Inv Source Tracking
+41170,2023-07-08 06.36.00,Status,Source Stop High AC V,None
+41171,2023-07-08 06.36.00,Status,Source A Cooling Down,Fault Action13
+41172,2023-07-08 06.36.01,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41173,2023-07-08 06.36.03,Status,Source A Stopped,SrcA Cooling Down
+41174,2023-07-08 06.36.03,Status,Start Source A,Operation Auto Inverter Only
+41175,2023-07-08 06.36.04,Status,Source A Warming Up,SrcA Startup
+41176,2023-07-08 06.36.54,Status,Sync OK,Inv Source Tracking
+41177,2023-07-08 06.36.54,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41178,2023-07-08 06.36.54,Status,Parallel Mode,Operation Auto Inverter Only
+41179,2023-07-08 06.49.58,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41180,2023-07-08 07.01.07,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41181,2023-07-08 07.03.06,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41182,2023-07-08 07.04.31,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41183,2023-07-08 07.04.31,Status,Inverter Masked,Fault Action21
+41184,2023-07-08 07.04.31,Status,Source A Cooling Down,Operation System Off
+41185,2023-07-08 07.04.31,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41186,2023-07-08 07.04.31,Status,Inverter CB Opened,Inv CB Waiting for Opened
+41187,2023-07-08 07.04.34,Status,Source A Stopped,SrcA Cooling Down
+41188,2023-07-08 07.32.55,User,Fault Reset,HMI_Fault_Reset
+41189,2023-07-08 07.33.17,User,Auto Inv Only Mode,HMI_Full_Auto
+41190,2023-07-08 07.33.17,Status,Inverter Started,Operation Auto Inverter Only
+41191,2023-07-08 07.33.17,Status,Start Source A,Operation Auto Inverter Only
+41192,2023-07-08 07.33.18,Status,Source A Warming Up,SrcA Startup
+41193,2023-07-08 07.33.20,Status,Inverter CB Closed,Inv CB Waiting for Closed
+41194,2023-07-08 07.34.06,Status,Sync OK,Inv Source Tracking
+41195,2023-07-08 07.34.06,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41196,2023-07-08 07.34.06,Status,Parallel Mode,Operation Auto Inverter Only
+41197,2023-07-08 07.34.34,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41198,2023-07-08 07.35.04,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41199,2023-07-08 07.38.05,Status,Source Stop High AC V,None
+41200,2023-07-08 07.38.05,Status,Source A Cooling Down,Fault Action13
+41201,2023-07-08 07.38.05,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41202,2023-07-08 07.38.05,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41203,2023-07-08 07.38.08,Status,Source A Stopped,SrcA Cooling Down
+41204,2023-07-08 07.38.08,Status,Start Source A,Operation Auto Inverter Only
+41205,2023-07-08 07.38.09,Status,Source A Warming Up,SrcA Startup
+41206,2023-07-08 07.39.00,Status,Sync OK,Inv Source Tracking
+41207,2023-07-08 07.39.00,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41208,2023-07-08 07.39.00,Status,Parallel Mode,Operation Auto Inverter Only
+41209,2023-07-08 07.40.00,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41210,2023-07-08 07.41.20,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41211,2023-07-08 07.43.10,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41212,2023-07-08 07.47.46,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41213,2023-07-08 08.08.48,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41214,2023-07-08 08.09.19,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41215,2023-07-08 08.12.16,Status,Source Stop High AC V,None
+41216,2023-07-08 08.12.16,Status,Source A Cooling Down,Fault Action13
+41217,2023-07-08 08.12.16,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41218,2023-07-08 08.12.16,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41219,2023-07-08 08.12.19,Status,Source A Stopped,SrcA Cooling Down
+41220,2023-07-08 08.12.19,Status,Start Source A,Operation Auto Inverter Only
+41221,2023-07-08 08.12.20,Status,Source A Warming Up,SrcA Startup
+41222,2023-07-08 08.13.10,Status,Sync OK,Inv Source Tracking
+41223,2023-07-08 08.13.10,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41224,2023-07-08 08.13.10,Status,Parallel Mode,Operation Auto Inverter Only
+41225,2023-07-08 08.19.52,Status,Source Stop High AC V,None
+41226,2023-07-08 08.19.52,Status,Source A Cooling Down,Fault Action13
+41227,2023-07-08 08.19.52,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41228,2023-07-08 08.19.52,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41229,2023-07-08 08.19.54,Status,Source A Stopped,SrcA Cooling Down
+41230,2023-07-08 08.19.55,Status,Start Source A,Operation Auto Inverter Only
+41231,2023-07-08 08.19.56,Status,Source A Warming Up,SrcA Startup
+41232,2023-07-08 08.20.45,Status,Sync OK,Inv Source Tracking
+41233,2023-07-08 08.20.45,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41234,2023-07-08 08.20.45,Status,Parallel Mode,Operation Auto Inverter Only
+41235,2023-07-08 08.21.41,Status,Source Stop High AC V,None
+41236,2023-07-08 08.21.41,Status,Source A Cooling Down,Fault Action13
+41237,2023-07-08 08.21.41,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41238,2023-07-08 08.21.42,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41239,2023-07-08 08.21.44,Status,Source A Stopped,SrcA Cooling Down
+41240,2023-07-08 08.21.44,Status,Start Source A,Operation Auto Inverter Only
+41241,2023-07-08 08.21.45,Status,Source A Warming Up,SrcA Startup
+41242,2023-07-08 08.22.37,Status,Sync OK,Inv Source Tracking
+41243,2023-07-08 08.22.38,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41244,2023-07-08 08.22.38,Status,Parallel Mode,Operation Auto Inverter Only
+41245,2023-07-08 08.23.21,Status,Source Stop High AC V,None
+41246,2023-07-08 08.23.21,Status,Source A Cooling Down,Fault Action13
+41247,2023-07-08 08.23.21,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41248,2023-07-08 08.23.21,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41249,2023-07-08 08.23.23,Status,Source A Stopped,SrcA Cooling Down
+41250,2023-07-08 08.23.23,Status,Start Source A,Operation Auto Inverter Only
+41251,2023-07-08 08.23.24,Status,Source A Warming Up,SrcA Startup
+41252,2023-07-08 08.24.14,Status,Sync OK,Inv Source Tracking
+41253,2023-07-08 08.24.14,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41254,2023-07-08 08.24.14,Status,Parallel Mode,Operation Auto Inverter Only
+41255,2023-07-08 08.53.39,Status,Source Stop Low AC V,None
+41256,2023-07-08 08.53.39,Status,Source A Cooling Down,Fault Action13
+41257,2023-07-08 08.53.39,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41258,2023-07-08 08.53.39,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41259,2023-07-08 08.53.41,Status,Source A Stopped,SrcA Cooling Down
+41260,2023-07-08 08.56.25,Status,Start Source A,Operation Auto Inverter Only
+41261,2023-07-08 08.56.26,Status,Source A Warming Up,SrcA Startup
+41262,2023-07-08 08.56.30,Status,Source A Cooling Down,Operation Auto Inverter Only
+41263,2023-07-08 08.56.32,Status,Source A Stopped,SrcA Cooling Down
+41264,2023-07-08 08.56.36,Status,Start Source A,Operation Auto Inverter Only
+41265,2023-07-08 08.56.37,Status,Source A Warming Up,SrcA Startup
+41266,2023-07-08 08.57.15,Status,Source Stop High AC V,None
+41267,2023-07-08 08.57.15,Status,Source A Cooling Down,Fault Action13
+41268,2023-07-08 08.57.18,Status,Source A Stopped,SrcA Cooling Down
+41269,2023-07-08 08.57.18,Status,Start Source A,Operation Auto Inverter Only
+41270,2023-07-08 08.57.19,Status,Source A Warming Up,SrcA Startup
+41271,2023-07-08 08.57.54,Fault,Inv Sync Fault,Inv Request Source Tracking
+41272,2023-07-08 08.58.08,Status,Sync OK,Inv Source Tracking
+41273,2023-07-08 08.58.08,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41274,2023-07-08 08.58.08,Status,Parallel Mode,Operation Auto Inverter Only
+41275,2023-07-08 10.06.14,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41276,2023-07-08 10.06.45,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41277,2023-07-08 10.40.46,Status,Source Stop High AC V,None
+41278,2023-07-08 10.40.46,Status,Source A Cooling Down,Fault Action13
+41279,2023-07-08 10.40.46,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41280,2023-07-08 10.40.46,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41281,2023-07-08 10.40.48,Status,Source A Stopped,SrcA Cooling Down
+41282,2023-07-08 10.40.48,Status,Start Source A,Operation Auto Inverter Only
+41283,2023-07-08 10.40.49,Status,Source A Warming Up,SrcA Startup
+41284,2023-07-08 10.40.50,Status,Solar Control Disabled,Fault Action10
+41285,2023-07-08 10.40.57,Fault,High DC Volts,None
+41286,2023-07-08 10.41.36,Status,Sync OK,Inv Source Tracking
+41287,2023-07-08 10.41.36,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41288,2023-07-08 10.41.36,Status,Parallel Mode,Operation Auto Inverter Only
+41289,2023-07-08 11.04.32,Status,Source Stop High AC V,None
+41290,2023-07-08 11.04.32,Status,Source A Cooling Down,Fault Action13
+41291,2023-07-08 11.04.32,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41292,2023-07-08 11.04.32,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41293,2023-07-08 11.04.34,Status,Source A Stopped,SrcA Cooling Down
+41294,2023-07-08 11.04.34,Status,Start Source A,Operation Auto Inverter Only
+41295,2023-07-08 11.04.35,Status,Source A Warming Up,SrcA Startup
+41296,2023-07-08 11.04.36,Status,Solar Control Disabled,Fault Action10
+41297,2023-07-08 11.04.42,Fault,High DC Volts,None
+41298,2023-07-08 11.05.28,Status,Sync OK,Inv Source Tracking
+41299,2023-07-08 11.05.28,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41300,2023-07-08 11.05.28,Status,Parallel Mode,Operation Auto Inverter Only
+41301,2023-07-08 11.15.29,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41302,2023-07-08 11.17.08,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41303,2023-07-08 11.18.57,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41304,2023-07-08 11.58.19,Status,Source Stop High AC V,None
+41305,2023-07-08 11.58.19,Status,Source A Cooling Down,Fault Action13
+41306,2023-07-08 11.58.19,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41307,2023-07-08 11.58.19,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41308,2023-07-08 11.58.21,Status,Source A Stopped,SrcA Cooling Down
+41309,2023-07-08 11.58.22,Status,Start Source A,Operation Auto Inverter Only
+41310,2023-07-08 11.58.23,Status,Source A Warming Up,SrcA Startup
+41311,2023-07-08 11.58.23,Status,Solar Control Disabled,Fault Action10
+41312,2023-07-08 11.58.29,Fault,High DC Volts,None
+41313,2023-07-08 11.59.10,Status,Sync OK,Inv Source Tracking
+41314,2023-07-08 11.59.10,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41315,2023-07-08 11.59.10,Status,Parallel Mode,Operation Auto Inverter Only
+41316,2023-07-08 12.10.08,Status,Source Stop High AC V,None
+41317,2023-07-08 12.10.08,Status,Source A Cooling Down,Fault Action13
+41318,2023-07-08 12.10.08,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41319,2023-07-08 12.10.08,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41320,2023-07-08 12.10.10,Status,Source A Stopped,SrcA Cooling Down
+41321,2023-07-08 12.10.10,Status,Start Source A,Operation Auto Inverter Only
+41322,2023-07-08 12.10.11,Status,Source A Warming Up,SrcA Startup
+41323,2023-07-08 12.11.02,Status,Sync OK,Inv Source Tracking
+41324,2023-07-08 12.11.02,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41325,2023-07-08 12.11.02,Status,Parallel Mode,Operation Auto Inverter Only
+41326,2023-07-08 12.17.45,Status,Source Stop High AC V,None
+41327,2023-07-08 12.17.45,Status,Source A Cooling Down,Fault Action13
+41328,2023-07-08 12.17.45,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41329,2023-07-08 12.17.45,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41330,2023-07-08 12.17.47,Status,Source A Stopped,SrcA Cooling Down
+41331,2023-07-08 12.17.48,Status,Start Source A,Operation Auto Inverter Only
+41332,2023-07-08 12.17.49,Status,Source A Warming Up,SrcA Startup
+41333,2023-07-08 12.18.36,Status,Sync OK,Inv Source Tracking
+41334,2023-07-08 12.18.36,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41335,2023-07-08 12.18.36,Status,Parallel Mode,Operation Auto Inverter Only
+41336,2023-07-08 12.18.50,Status,Source Stop High AC V,None
+41337,2023-07-08 12.18.50,Status,Source A Cooling Down,Fault Action13
+41338,2023-07-08 12.18.51,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41339,2023-07-08 12.18.51,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41340,2023-07-08 12.18.53,Status,Source A Stopped,SrcA Cooling Down
+41341,2023-07-08 12.18.53,Status,Start Source A,Operation Auto Inverter Only
+41342,2023-07-08 12.18.54,Status,Source A Warming Up,SrcA Startup
+41343,2023-07-08 12.19.44,Status,Sync OK,Inv Source Tracking
+41344,2023-07-08 12.19.44,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41345,2023-07-08 12.19.44,Status,Parallel Mode,Operation Auto Inverter Only
+41346,2023-07-08 12.19.51,Status,Source Stop High AC V,None
+41347,2023-07-08 12.19.51,Status,Source A Cooling Down,Fault Action13
+41348,2023-07-08 12.19.51,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41349,2023-07-08 12.19.51,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41350,2023-07-08 12.19.53,Status,Source A Stopped,SrcA Cooling Down
+41351,2023-07-08 12.19.53,Status,Start Source A,Operation Auto Inverter Only
+41352,2023-07-08 12.19.54,Status,Source A Warming Up,SrcA Startup
+41353,2023-07-08 12.20.44,Status,Sync OK,Inv Source Tracking
+41354,2023-07-08 12.20.44,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41355,2023-07-08 12.20.44,Status,Parallel Mode,Operation Auto Inverter Only
+41356,2023-07-08 12.20.54,Status,Source Stop High AC V,None
+41357,2023-07-08 12.20.54,Status,Source A Cooling Down,Fault Action13
+41358,2023-07-08 12.20.54,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41359,2023-07-08 12.20.54,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41360,2023-07-08 12.20.57,Status,Source A Stopped,SrcA Cooling Down
+41361,2023-07-08 12.20.57,Status,Start Source A,Operation Auto Inverter Only
+41362,2023-07-08 12.20.58,Status,Source A Warming Up,SrcA Startup
+41363,2023-07-08 12.21.38,Status,Source Stop High AC V,None
+41364,2023-07-08 12.21.38,Status,Source A Cooling Down,Fault Action13
+41365,2023-07-08 12.21.40,Status,Source A Stopped,SrcA Cooling Down
+41366,2023-07-08 12.21.40,Status,Start Source A,Operation Auto Inverter Only
+41367,2023-07-08 12.21.41,Status,Source A Warming Up,SrcA Startup
+41368,2023-07-08 12.22.17,Fault,Inv Sync Fault,Inv Request Source Tracking
+41369,2023-07-08 12.22.29,Status,Sync OK,Inv Source Tracking
+41370,2023-07-08 12.22.29,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41371,2023-07-08 12.22.29,Status,Parallel Mode,Operation Auto Inverter Only
+41372,2023-07-08 12.22.35,Status,Source Stop High AC V,None
+41373,2023-07-08 12.22.35,Status,Source A Cooling Down,Fault Action13
+41374,2023-07-08 12.22.35,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41375,2023-07-08 12.22.35,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41376,2023-07-08 12.22.37,Status,Source A Stopped,SrcA Cooling Down
+41377,2023-07-08 12.22.37,Status,Start Source A,Operation Auto Inverter Only
+41378,2023-07-08 12.22.38,Status,Source A Warming Up,SrcA Startup
+41379,2023-07-08 12.23.14,Status,Source Stop High AC V,None
+41380,2023-07-08 12.23.14,Status,Source A Cooling Down,Fault Action13
+41381,2023-07-08 12.23.16,Status,Source A Stopped,SrcA Cooling Down
+41382,2023-07-08 12.23.16,Status,Start Source A,Operation Auto Inverter Only
+41383,2023-07-08 12.23.18,Status,Source A Warming Up,SrcA Startup
+41384,2023-07-08 12.23.53,Fault,Inv Sync Fault,Inv Request Source Tracking
+41385,2023-07-08 12.24.05,Status,Sync OK,Inv Source Tracking
+41386,2023-07-08 12.24.06,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41387,2023-07-08 12.24.06,Status,Parallel Mode,Operation Auto Inverter Only
+41388,2023-07-08 12.26.29,Status,Source Stop High AC V,None
+41389,2023-07-08 12.26.29,Status,Source A Cooling Down,Fault Action13
+41390,2023-07-08 12.26.29,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41391,2023-07-08 12.26.29,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41392,2023-07-08 12.26.31,Status,Source A Stopped,SrcA Cooling Down
+41393,2023-07-08 12.26.31,Status,Start Source A,Operation Auto Inverter Only
+41394,2023-07-08 12.26.32,Status,Source A Warming Up,SrcA Startup
+41395,2023-07-08 12.27.22,Status,Sync OK,Inv Source Tracking
+41396,2023-07-08 12.27.22,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41397,2023-07-08 12.27.22,Status,Parallel Mode,Operation Auto Inverter Only
+41398,2023-07-08 12.27.31,Status,Source Stop High AC V,None
+41399,2023-07-08 12.27.31,Status,Source A Cooling Down,Fault Action13
+41400,2023-07-08 12.27.31,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41401,2023-07-08 12.27.31,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41402,2023-07-08 12.27.33,Status,Source A Stopped,SrcA Cooling Down
+41403,2023-07-08 12.27.34,Status,Start Source A,Operation Auto Inverter Only
+41404,2023-07-08 12.27.35,Status,Source A Warming Up,SrcA Startup
+41405,2023-07-08 12.28.21,Status,Sync OK,Inv Source Tracking
+41406,2023-07-08 12.28.22,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41407,2023-07-08 12.28.22,Status,Parallel Mode,Operation Auto Inverter Only
+41408,2023-07-08 12.33.54,Status,Source Stop High AC V,None
+41409,2023-07-08 12.33.54,Status,Source A Cooling Down,Fault Action13
+41410,2023-07-08 12.33.55,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41411,2023-07-08 12.33.55,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41412,2023-07-08 12.33.57,Status,Source A Stopped,SrcA Cooling Down
+41413,2023-07-08 12.33.57,Status,Start Source A,Operation Auto Inverter Only
+41414,2023-07-08 12.33.58,Status,Source A Warming Up,SrcA Startup
+41415,2023-07-08 12.34.47,Status,Sync OK,Inv Source Tracking
+41416,2023-07-08 12.34.48,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41417,2023-07-08 12.34.48,Status,Parallel Mode,Operation Auto Inverter Only
+41418,2023-07-08 12.34.54,Status,Source Stop High AC V,None
+41419,2023-07-08 12.34.54,Status,Source A Cooling Down,Fault Action13
+41420,2023-07-08 12.34.54,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41421,2023-07-08 12.34.54,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41422,2023-07-08 12.34.56,Status,Source A Stopped,SrcA Cooling Down
+41423,2023-07-08 12.34.56,Status,Start Source A,Operation Auto Inverter Only
+41424,2023-07-08 12.34.57,Status,Source A Warming Up,SrcA Startup
+41425,2023-07-08 12.35.41,Status,Source Stop High AC V,None
+41426,2023-07-08 12.35.41,Status,Source A Cooling Down,Fault Action13
+41427,2023-07-08 12.35.43,Status,Source A Stopped,SrcA Cooling Down
+41428,2023-07-08 12.35.43,Status,Start Source A,Operation Auto Inverter Only
+41429,2023-07-08 12.35.45,Status,Source A Warming Up,SrcA Startup
+41430,2023-07-08 12.36.27,Status,Source Stop High AC V,None
+41431,2023-07-08 12.36.27,Status,Source A Cooling Down,Fault Action13
+41432,2023-07-08 12.36.29,Status,Source A Stopped,SrcA Cooling Down
+41433,2023-07-08 12.36.29,Status,Start Source A,Operation Auto Inverter Only
+41434,2023-07-08 12.36.30,Status,Source A Warming Up,SrcA Startup
+41435,2023-07-08 12.37.17,Status,Sync OK,Inv Source Tracking
+41436,2023-07-08 12.37.17,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41437,2023-07-08 12.37.17,Status,Parallel Mode,Operation Auto Inverter Only
+41438,2023-07-08 12.37.20,Status,Source Stop High AC V,None
+41439,2023-07-08 12.37.20,Status,Source A Cooling Down,Fault Action13
+41440,2023-07-08 12.37.20,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41441,2023-07-08 12.37.20,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41442,2023-07-08 12.37.22,Status,Source A Stopped,SrcA Cooling Down
+41443,2023-07-08 12.37.22,Status,Start Source A,Operation Auto Inverter Only
+41444,2023-07-08 12.37.23,Status,Source A Warming Up,SrcA Startup
+41445,2023-07-08 12.38.12,Status,Sync OK,Inv Source Tracking
+41446,2023-07-08 12.38.13,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41447,2023-07-08 12.38.13,Status,Parallel Mode,Operation Auto Inverter Only
+41448,2023-07-08 12.38.18,Status,Source Stop High AC V,None
+41449,2023-07-08 12.38.18,Status,Source A Cooling Down,Fault Action13
+41450,2023-07-08 12.38.18,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41451,2023-07-08 12.38.18,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41452,2023-07-08 12.38.20,Status,Source A Stopped,SrcA Cooling Down
+41453,2023-07-08 12.38.20,Status,Start Source A,Operation Auto Inverter Only
+41454,2023-07-08 12.38.21,Status,Source A Warming Up,SrcA Startup
+41455,2023-07-08 12.39.08,Status,Sync OK,Inv Source Tracking
+41456,2023-07-08 12.39.09,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41457,2023-07-08 12.39.09,Status,Parallel Mode,Operation Auto Inverter Only
+41458,2023-07-08 12.39.22,Status,Source Stop High AC V,None
+41459,2023-07-08 12.39.22,Status,Source A Cooling Down,Fault Action13
+41460,2023-07-08 12.39.23,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41461,2023-07-08 12.39.23,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41462,2023-07-08 12.39.25,Status,Source A Stopped,SrcA Cooling Down
+41463,2023-07-08 12.39.25,Status,Start Source A,Operation Auto Inverter Only
+41464,2023-07-08 12.39.26,Status,Source A Warming Up,SrcA Startup
+41465,2023-07-08 12.40.17,Status,Sync OK,Inv Source Tracking
+41466,2023-07-08 12.40.17,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41467,2023-07-08 12.40.17,Status,Parallel Mode,Operation Auto Inverter Only
+41468,2023-07-08 12.40.27,Status,Source Stop High AC V,None
+41469,2023-07-08 12.40.27,Status,Source A Cooling Down,Fault Action13
+41470,2023-07-08 12.40.27,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41471,2023-07-08 12.40.27,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41472,2023-07-08 12.40.29,Status,Source A Stopped,SrcA Cooling Down
+41473,2023-07-08 12.40.29,Status,Start Source A,Operation Auto Inverter Only
+41474,2023-07-08 12.40.30,Status,Source A Warming Up,SrcA Startup
+41475,2023-07-08 12.41.20,Status,Sync OK,Inv Source Tracking
+41476,2023-07-08 12.41.20,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41477,2023-07-08 12.41.20,Status,Parallel Mode,Operation Auto Inverter Only
+41478,2023-07-08 12.57.38,Status,Source Stop Low AC V,None
+41479,2023-07-08 12.57.38,Status,Source A Cooling Down,Fault Action13
+41480,2023-07-08 12.57.38,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41481,2023-07-08 12.57.38,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41482,2023-07-08 12.57.40,Status,Source A Stopped,SrcA Cooling Down
+41483,2023-07-08 12.57.41,Status,Solar Control Disabled,Fault Action10
+41484,2023-07-08 12.57.48,Fault,High DC Volts,None
+41485,2023-07-08 12.58.05,Status,Start Source A,Operation Auto Inverter Only
+41486,2023-07-08 12.58.06,Status,Source A Cooling Down,Operation Auto Inverter Only
+41487,2023-07-08 12.58.08,Status,Source A Stopped,SrcA Cooling Down
+41488,2023-07-08 12.58.09,Status,Start Source A,Operation Auto Inverter Only
+41489,2023-07-08 12.58.10,Status,Source A Warming Up,SrcA Startup
+41490,2023-07-08 12.58.56,Status,Sync OK,Inv Source Tracking
+41491,2023-07-08 12.58.56,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41492,2023-07-08 12.58.56,Status,Parallel Mode,Operation Auto Inverter Only
+41493,2023-07-08 13.00.32,Status,Source Stop High AC V,None
+41494,2023-07-08 13.00.32,Status,Source A Cooling Down,Fault Action13
+41495,2023-07-08 13.00.32,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41496,2023-07-08 13.00.32,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41497,2023-07-08 13.00.34,Status,Source A Stopped,SrcA Cooling Down
+41498,2023-07-08 13.00.34,Status,Start Source A,Operation Auto Inverter Only
+41499,2023-07-08 13.00.35,Status,Source A Warming Up,SrcA Startup
+41500,2023-07-08 13.01.23,Status,Sync OK,Inv Source Tracking
+41501,2023-07-08 13.01.24,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41502,2023-07-08 13.01.24,Status,Parallel Mode,Operation Auto Inverter Only
+41503,2023-07-08 13.01.31,Status,Source Stop High AC V,None
+41504,2023-07-08 13.01.31,Status,Source A Cooling Down,Fault Action13
+41505,2023-07-08 13.01.31,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41506,2023-07-08 13.01.31,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41507,2023-07-08 13.01.34,Status,Source A Stopped,SrcA Cooling Down
+41508,2023-07-08 13.01.34,Status,Start Source A,Operation Auto Inverter Only
+41509,2023-07-08 13.01.35,Status,Source A Warming Up,SrcA Startup
+41510,2023-07-08 13.02.14,Status,Source Stop High AC V,None
+41511,2023-07-08 13.02.14,Status,Source A Cooling Down,Fault Action13
+41512,2023-07-08 13.02.17,Status,Source A Stopped,SrcA Cooling Down
+41513,2023-07-08 13.02.17,Status,Start Source A,Operation Auto Inverter Only
+41514,2023-07-08 13.02.18,Status,Source A Warming Up,SrcA Startup
+41515,2023-07-08 13.02.54,Status,Source Stop High AC V,None
+41516,2023-07-08 13.02.54,Status,Source A Cooling Down,Fault Action13
+41517,2023-07-08 13.02.56,Status,Source A Stopped,SrcA Cooling Down
+41518,2023-07-08 13.02.56,Status,Start Source A,Operation Auto Inverter Only
+41519,2023-07-08 13.02.58,Status,Source A Warming Up,SrcA Startup
+41520,2023-07-08 13.03.34,Fault,Inv Sync Fault,Inv Request Source Tracking
+41521,2023-07-08 13.03.34,Status,Source Stop High AC V,None
+41522,2023-07-08 13.03.34,Status,Source A Cooling Down,Fault Action13
+41523,2023-07-08 13.03.36,Status,Source A Stopped,SrcA Cooling Down
+41524,2023-07-08 13.03.36,Status,Start Source A,Operation Auto Inverter Only
+41525,2023-07-08 13.03.38,Status,Source A Warming Up,SrcA Startup
+41526,2023-07-08 13.04.16,Status,Source Stop High AC V,None
+41527,2023-07-08 13.04.16,Status,Source A Cooling Down,Fault Action13
+41528,2023-07-08 13.04.18,Status,Source A Stopped,SrcA Cooling Down
+41529,2023-07-08 13.04.18,Status,Start Source A,Operation Auto Inverter Only
+41530,2023-07-08 13.04.20,Status,Source A Warming Up,SrcA Startup
+41531,2023-07-08 13.05.05,Status,Source Stop High AC V,None
+41532,2023-07-08 13.05.05,Status,Source A Cooling Down,Fault Action13
+41533,2023-07-08 13.05.07,Status,Source A Stopped,SrcA Cooling Down
+41534,2023-07-08 13.05.07,Status,Start Source A,Operation Auto Inverter Only
+41535,2023-07-08 13.05.08,Status,Source A Warming Up,SrcA Startup
+41536,2023-07-08 13.05.49,Status,Source Stop High AC V,None
+41537,2023-07-08 13.05.49,Status,Source A Cooling Down,Fault Action13
+41538,2023-07-08 13.05.52,Status,Source A Stopped,SrcA Cooling Down
+41539,2023-07-08 13.05.52,Status,Start Source A,Operation Auto Inverter Only
+41540,2023-07-08 13.05.53,Status,Source A Warming Up,SrcA Startup
+41541,2023-07-08 13.06.44,Status,Sync OK,Inv Source Tracking
+41542,2023-07-08 13.06.44,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41543,2023-07-08 13.06.44,Status,Parallel Mode,Operation Auto Inverter Only
+41544,2023-07-08 13.06.50,Status,Source Stop High AC V,None
+41545,2023-07-08 13.06.50,Status,Source A Cooling Down,Fault Action13
+41546,2023-07-08 13.06.50,Status,Auto Inv Only Mode,Operation Auto Parallel Source A
+41547,2023-07-08 13.06.50,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41548,2023-07-08 13.06.53,Status,Source A Stopped,SrcA Cooling Down
+41549,2023-07-08 13.06.53,Status,Start Source A,Operation Auto Inverter Only
+41550,2023-07-08 13.06.54,Status,Source A Warming Up,SrcA Startup
+41551,2023-07-08 13.07.44,Status,Sync OK,Inv Source Tracking
+41552,2023-07-08 13.07.44,Status,Source A CB Closed,SrcA CB Waiting for Closed
+41553,2023-07-08 13.07.44,Status,Parallel Mode,Operation Auto Inverter Only
+41554,2023-07-08 14.30.10,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41555,2023-07-08 14.30.40,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41556,2023-07-08 14.32.05,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41557,2023-07-08 14.32.05,Status,Inverter Masked,Fault Action21
+41558,2023-07-08 14.32.05,Status,Source A Cooling Down,Operation System Off
+41559,2023-07-08 14.32.06,Status,Source A CB Opened,SrcA CB Waiting for Opened
+41560,2023-07-08 14.32.06,Status,Inverter CB Opened,Inv CB Waiting for Opened
+41561,2023-07-08 14.32.08,Status,Source A Stopped,SrcA Cooling Down
+41562,2023-07-08 19.09.56,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+41563,2023-07-09 06.04.43,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+41564,2023-07-09 18.41.22,Status,Solar Control Disabled,SP99 Solar MPPT Min Chg Amps
+41565,2023-07-10 05.53.53,Status,Solar Control Enabled,SP99 Solar MPPT Min Chg Amps
+41566,2023-07-10 11.05.12,User,Fault Reset,HMI_Fault_Reset
+41567,2023-07-10 11.05.16,User,Man Inv Only Mode,HMI_Manual_Inverter
+41568,2023-07-10 11.05.16,User,Inverter Started,HMI_Manual_Inverter
+41569,2023-07-10 11.05.18,Status,Inverter CB Closed,Inv CB Waiting for Closed
+41570,2023-07-10 11.05.24,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41571,2023-07-10 11.05.24,Status,Inverter Masked,Fault Action21
+41572,2023-07-10 11.05.25,Status,Inverter CB Opened,Inv CB Waiting for Opened
+41573,2023-07-10 11.05.27,User,Fault Reset,HMI_Fault_Reset
+41574,2023-07-10 11.05.44,User,Man Inv Only Mode,HMI_Manual_Inverter
+41575,2023-07-10 11.05.44,User,Inverter Started,HMI_Manual_Inverter
+41576,2023-07-10 11.05.47,Status,Inverter CB Closed,Inv CB Waiting for Closed
+41577,2023-07-10 11.05.54,Fault,Spare Flt 6,LP100 DSP +5v Supply Sense
+41578,2023-07-10 11.05.54,Status,Inverter Masked,Fault Action21
+41579,2023-07-10 11.05.54,Status,Inverter CB Opened,Inv CB Waiting for Opened

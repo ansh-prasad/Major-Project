@@ -1,0 +1,5 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh
+2023-06-26,13.46.51.59,Status : Inverter Started,Operation Auto Source A Only,0.0,5.7,2.6,43.7,878,193590.0,57051.8,47378.9,295985.7,0,0,385465.7,17811.8,77040.9,221172.8
+2023-07-03,10.41.37.28,Status : Inverter Started,HMI_Test_Mode,0.0,0.0,0.0,29.8,705,193875.4,57101.0,47533.6,296165.6,0,0,385727.1,17813.5,77048.7,221599.1
+2023-07-05,15.55.34.29,Status : Inverter Started,HMI_Test_Mode,0.0,0.0,0.0,27.7,528,193880.0,57101.0,47538.3,296165.6,0,0,385727.1,17813.6,77049.1,221606.7
+2023-07-05,15.55.53.61,Status : Inverter Started,HMI_Test_Mode,0.0,0.0,0.0,27.7,525,193880.0,57101.0,47538.3,296165.6,0,0,385727.1,17813.6,77049.1,221606.7

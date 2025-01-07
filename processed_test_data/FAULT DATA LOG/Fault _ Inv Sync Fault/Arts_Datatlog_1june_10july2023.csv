@@ -1,0 +1,5 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh
+2023-06-25,18.07.54.29,Fault : Inv Sync Fault,Inv Request Source Tracking,3.0,3.0,1.6,33.1,123,193578.3,57047.4,47373.5,295918.7,0,0,385396.6,17809.2,77037.7,221150.0
+2023-07-08,08.58.08.26,Fault : Inv Sync Fault,Inv Request Source Tracking,0.0,0.0,0.6,19.6,86,193986.3,57122.8,47602.0,296242.4,0,0,385832.0,17813.9,77055.1,221776.0
+2023-07-08,12.22.29.37,Fault : Inv Sync Fault,Inv Request Source Tracking,0.0,0.0,0.5,22.9,597,193996.5,57122.8,47613.7,296242.4,0,0,385832.9,17813.9,77055.4,221792.9
+2023-07-08,12.24.05.87,Fault : Inv Sync Fault,Inv Request Source Tracking,0.0,0.0,0.5,23.1,571,193996.5,57122.8,47613.7,296242.4,0,0,385832.9,17813.9,77055.4,221792.9

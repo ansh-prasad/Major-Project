@@ -1,10 +1,3 @@
-''' 
-this didn't have the SMOTE included because of that :
--> performance matrix is not good
--> model is skewd to majority data
-
-'''
-
 import os
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
@@ -16,7 +9,7 @@ import logging
 # Setup logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# Define the processed data folder
+# Define constants
 PROCESSED_FOLDER = "processed_data"
 MODEL_FILENAME = "solar_fault_predictive_model_lag.pkl"
 
@@ -31,7 +24,6 @@ def load_data(folder: str) -> pd.DataFrame:
                 try:
                     data = pd.read_csv(file_path)
                     data['Source File'] = file  # Add source file info for context
-                    data['Category'] = os.path.basename(os.path.dirname(root))  # Add category
                     all_data.append(data)
                 except Exception as e:
                     logging.error(f"Failed to read {file_path}: {e}")
@@ -44,9 +36,8 @@ def add_time_lagged_features(data: pd.DataFrame, lags: int = 3) -> pd.DataFrame:
         for col in ['Ambient Temp (C)', 'Solar Radiation (W/m2)', 'Load kW Sum (kW)']:
             data[f"{col}_lag{lag}"] = data[col].shift(lag)
     return data.dropna()
-    
 
-# Fault mapping
+# Fault mapping function
 def map_faults(data: pd.DataFrame) -> pd.DataFrame:
     categories = {
         "FAULT DATA LOG": {
@@ -90,6 +81,7 @@ def map_faults(data: pd.DataFrame) -> pd.DataFrame:
     }
     fault_map = {desc: category for category_dict in categories.values() for desc, category in category_dict.items()}
     data['Fault_Label'] = data['Description'].map(fault_map)
+    data['Fault_Label'] = data['Fault_Label'].fillna(data['Description'])  # Retain unmapped descriptions
     return data
 
 # Function to train and save the model
@@ -97,9 +89,9 @@ def train_model(data: pd.DataFrame):
     logging.info("Training model...")
     features = ['Ambient Temp (C)', 'Solar Radiation (W/m2)', 'Load kW Sum (kW)'] + \
                [f"{col}_lag{lag}" for col in ['Ambient Temp (C)', 'Solar Radiation (W/m2)', 'Load kW Sum (kW)'] for lag in range(1, 4)]
-    
-    # Drop rows with NaN fault labels
-    data = data.dropna(subset=['Fault_Label'])
+
+    # Replace missing fault labels with "Unknown" rather than dropping them
+    data['Fault_Label'] = data['Fault_Label'].fillna("Unknown")
 
     # Split data into features (X) and target (y)
     X = data[features]
@@ -124,28 +116,26 @@ def train_model(data: pd.DataFrame):
 # Function to predict faults
 def predict_faults(new_data: pd.DataFrame, model_filename: str) -> tuple:
     logging.info("Predicting faults...")
-    
+
     # Load the trained model
     model = joblib.load(model_filename)
-    
+
     # Ensure the features match the model
     required_features = model.feature_names_in_
     missing_features = set(required_features) - set(new_data.columns)
-    
+
     if missing_features:
         raise ValueError(f"Missing required features: {missing_features}")
-    
+
     # Reorder columns to match the model's expected input
     new_data = new_data[required_features]
-    
+
     # Predict probabilities
     probabilities = model.predict_proba(new_data)
     class_probabilities = dict(zip(model.classes_, probabilities[0]))
     predicted_class = model.classes_[probabilities.argmax(axis=1)][0]
-    
+
     return predicted_class, class_probabilities
-
-
 
 # Main script
 if __name__ == "__main__":
@@ -165,45 +155,11 @@ if __name__ == "__main__":
     # Map faults and add time-lagged features
     data = map_faults(data)
     data = add_time_lagged_features(data)
-    
 
     # Check if the model file exists
     if os.path.exists(MODEL_FILENAME):
-        print(f"Loading existing model from {MODEL_FILENAME}...")
+        logging.info(f"Loading existing model from {MODEL_FILENAME}...")
         model = joblib.load(MODEL_FILENAME)
     else:
-        print("Model not found. Training a new model...")
-        # Load data (assuming you have a function to load your data)
-        data = load_data("processed_data")
-        # Train and save model
+        logging.info("Model not found. Training a new model...")
         train_model(data)
-
-# Example prediction   
-new_sample = pd.DataFrame([{
-        'Ambient Temp (C)': 27.8,
-        'Solar Radiation (W/m2)': 174,
-        'Load kW Sum (kW)': 0,
-        'Ambient Temp (C)_lag1': 27.9,
-        'Solar Radiation (W/m2)_lag1': 161,
-        'Load kW Sum (kW)_lag1': 0,
-        'Ambient Temp (C)_lag2': 28.5,
-        'Solar Radiation (W/m2)_lag2': 175,
-        'Load kW Sum (kW)_lag2': 0,
-        'Ambient Temp (C)_lag3':  76.9,
-        'Solar Radiation (W/m2)_lag3': 792,
-        'Load kW Sum (kW)_lag3': 0,
-    }])
-
-# Align features and predict
-predicted_fault, fault_probabilities = predict_faults(new_sample, MODEL_FILENAME)
-
-print("-------------------------")
-print(f"Prediction: {predicted_fault}")
-print("-------------------------")
-print("Prediction Probabilities:")
-print("-------------------------")
-for fault, probability in fault_probabilities.items():
-    if probability > 0:
-        print(f"{fault}: {probability * 100:.2f}%")
-
-

@@ -1,0 +1,4 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh
+2023-06-26,12.48.27.04,Status : Inverter CB Opened,Inv CB Waiting for Opened,0.0,0.0,0.1,43.3,765,193589.2,57051.8,47378.9,295985.4,0,0,385464.6,17811.7,77040.6,221171.2
+2023-07-03,10.33.35.37,Status : Inverter CB Opened,Inv CB Waiting for Opened,0.0,0.0,0.0,29.1,668,193875.4,57101.0,47533.6,296165.6,0,0,385727.1,17813.5,77048.7,221599.1
+2023-07-10,11.06.11.66,Status : Inverter CB Opened,Inv CB Waiting for Opened,0.0,0.0,0.2,27.4,521,194000.8,57122.8,47618.5,296242.5,0,0,385833.8,17813.9,77068.3,221806.1

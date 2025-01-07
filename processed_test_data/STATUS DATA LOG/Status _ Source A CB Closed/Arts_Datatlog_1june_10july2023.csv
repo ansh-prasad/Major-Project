@@ -1,0 +1,3 @@
+Date,Time,Description,Trigger,Inv kW Sum (kW),Load kW Sum (kW),Solar kW (kW),Ambient Temp (C),Solar Radiation (W/m2),Inv Exp kWh,Inv Imp kWh,Src A Exp kWh,Src A Imp kWh,Src B Exp kWh,Src B Imp kWh,Site kWh (calc),Batt Exp kWh,Batt Imp kWh,Solar kWh
+2023-06-26,13.36.11.98,Status : Source A CB Closed,SrcA CB Waiting for Closed,0.0,0.0,0.0,45.1,957,193590.0,57051.8,47378.9,295985.5,0,0,385465.5,17811.8,77040.9,221172.7
+2023-06-26,13.46.12.91,Status : Source A CB Closed,SrcA CB Waiting for Closed,0.0,6.3,0.0,44.7,874,193590.0,57051.8,47378.9,295985.6,0,0,385465.6,17811.8,77040.9,221172.7
