@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Solar Fault Prediction</title>
+  </head>
+  <body>
+    <h1>Solar Fault Prediction</h1>
+    <form method="post">
+      {% csrf_token %} {{ form.as_p }}
+      <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction %}
+    <h2>Prediction Result</h2>
+    <p><strong>Predicted Fault:</strong> {{ prediction }}</p>
+    <h3>Prediction Probabilities:</h3>
+    <ul>
+      {% for fault, prob in probabilities|zip:classes %}
+      <li>{{ fault }}: {{ prob|floatformat:2 }}%</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </body>
+</html>
