@@ -34,8 +34,8 @@ def extract_columns(input_folder, output_folder, required_columns):
 if __name__ == "__main__":
     # Define input and output folder paths
     base = os.getcwd()  # Base directory
-    input_folder = os.path.join(base, "testss")  # Input folder path
-    output_folder = os.path.join(base, "modified_test_data1234567")  # Output folder path
+    input_folder = os.path.join(base, "test-1")  # Input folder path
+    output_folder = os.path.join(base, "modified_test-1")  # Output folder path
 
     # Define the required columns based on your note
     required_columns = [

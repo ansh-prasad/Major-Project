@@ -2,8 +2,8 @@ import os
 import pandas as pd
 
 # Define the folder paths
-input_folder = "testss"
-output_folder = "processed_test_data"
+input_folder = "test-1"
+output_folder = "processed_test-1"
 
 # Define the categories and their subfolders
 categories = {

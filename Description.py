@@ -33,7 +33,7 @@ else:
             "Status : Battery Charge Stage 1",
             "Status : Battery Charge Stage 2",
             "Status : Battery Charge Stage 3",
-        ],
+            ],
         "User": [
             "User : System Off",
             "User : Fault Reset",
@@ -65,11 +65,11 @@ else:
 
             # Prepare the list to store the data with surrounding rows
             surrounding_data = []
-
+ 
             for index in event_indices:
                 # Get 5 rows before and 5 rows after the event entry
                 start_idx = max(index - 20, 0)  # Ensure the index doesn't go negative
-                end_idx = min(index + 21, len(data))  # Ensure it doesn't go out of bounds
+                end_idx = min(index + 21, len(data))  
 
                 # Extract the relevant rows
                 surrounding_rows = data.iloc[start_idx:end_idx]
