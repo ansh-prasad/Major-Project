@@ -80,7 +80,7 @@ for name, model in models.items():
 
 
 output_path = os.path.join(output_dir, "all_models_predictions.csv")
-combined_results.to_csv(output_path, index=False)
+combined_results.to_csv(output_path, index=False) 
 print(f"\nCombined results saved to '{output_path}'")
 
 # Test on new data function
