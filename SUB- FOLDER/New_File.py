@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+import os
+import joblib
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
@@ -10,17 +12,15 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.naive_bayes import GaussianNB
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score, classification_report
-import joblib
-import os
 
 # Directory where models and results will be saved
-output_dir = r"models"
+output_dir = "models"
 os.makedirs(output_dir, exist_ok=True)  # Ensure the directory exists
 
-# Load the CSV data
+# Load the training data
 data = pd.read_csv("Training_Data.csv")
 
-# Ensure the 'Fault_label' column is treated as string and strip whitespace
+# Ensure 'Fault_label' column is treated as string and strip whitespace
 data['Fault_label'] = data['Fault_label'].astype(str).str.strip()
 
 # Encode the 'Fault_label' using LabelEncoder
@@ -33,17 +33,17 @@ joblib.dump(label_encoder, os.path.join(output_dir, "fault_label_encoder.pkl"))
 # Define the mapping for fault labels
 fault_mapping = {"NORMAL": 1, "WARNING": 2, "FAULT": 3}
 
-# Preprocessing: Select relevant features and the target column
+# Feature selection
 features = ['Inv kW Sum (kW)', 'Load kW Sum (kW)', 'Solar kW (kW)', 'Ambient Temp (C)', 'Solar Radiation (W/m2)', 
             'Inv Exp kWh', 'Inv Imp kWh', 'Src A Exp kWh', 'Src A Imp kWh', 'Src B Exp kWh', 'Src B Imp kWh', 
             'Site kWh (calc)', 'Batt Exp kWh', 'Batt Imp kWh', 'Solar kWh']
 X = data[features]
 y = data['Fault_label']
 
-# Split the dataset into training and testing data
+# Split data into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# List of models to train and evaluate
+# Define models
 models = {
     "Random Forest": RandomForestClassifier(random_state=42),
     "Decision Tree": DecisionTreeClassifier(random_state=42),
@@ -62,31 +62,38 @@ combined_results['Actual_Fault_Label'] = label_encoder.inverse_transform(combine
 for name, model in models.items():
     print(f"\nTraining {name}...")
     model.fit(X_train, y_train)
-    y_pred = model.predict(X_test)
+    
+    # Get probability predictions
+    y_pred_proba = model.predict_proba(X_test)  # Class probabilities
+    
+    # Convert probabilities to DataFrame
+    proba_df = pd.DataFrame(y_pred_proba, columns=label_encoder.classes_)
+    
+    # Rename columns with model name
+    proba_df = proba_df.add_prefix(f"{name}_Prob_") * 100  # Convert to percentages
     
     # Save the trained model
     model_path = os.path.join(output_dir, f"{name.lower().replace(' ', '_')}_model.pkl")
     joblib.dump(model, model_path)
     
-    # Evaluate the model
+    # Evaluate using predicted class labels
+    y_pred = model.predict(X_test)
     accuracy = accuracy_score(y_test, y_pred)
-    print(f"{name} Accuracy: {accuracy}")
+    
+    print(f"{name} Accuracy: {accuracy:.4f}")
     print(f"{name} Classification Report:")
     print(classification_report(y_test, y_pred))
     
-    # Add predictions to the combined results DataFrame
-    combined_results[f'{name}_Pred_Fault_Label'] = y_pred
-    combined_results[f'{name}_Pred_Fault_Label'] = label_encoder.inverse_transform(combined_results[f'{name}_Pred_Fault_Label'])
+    # Append probability columns at the end
+    combined_results = pd.concat([combined_results, proba_df], axis=1)
 
-# Add numerical classification column
-combined_results['Fault_Label_Numeric'] = combined_results['Actual_Fault_Label'].map(fault_mapping)
-
-# Save combined results to a single CSV
+# Save combined results with probabilities in the same CSV file
 output_path = os.path.join(output_dir, "all_models_predictions.csv")
 combined_results.to_csv(output_path, index=False)
-print(f"\nCombined results saved to '{output_path}'")
+print(f"\nUpdated results saved to '{output_path}'")
 
-# Function to predict new data
+
+# Function to predict new data and save results with probabilities
 def predict_new_data(file_path):
     # Load new data
     new_data = pd.read_csv(file_path)
@@ -108,9 +115,17 @@ def predict_new_data(file_path):
         model_path = os.path.join(output_dir, model_file)
         model = joblib.load(model_path)
         
-        # Make predictions
-        results[f'{model_name}_Pred_Fault_Label'] = model.predict(new_data_processed)
-        results[f'{model_name}_Pred_Fault_Label'] = label_encoder.inverse_transform(results[f'{model_name}_Pred_Fault_Label'])
+        # Get probability predictions
+        y_pred_proba = model.predict_proba(new_data_processed)
+        
+        # Convert probabilities into a DataFrame
+        proba_df = pd.DataFrame(y_pred_proba, columns=label_encoder.classes_)
+        
+        # Rename columns with model name
+        proba_df = proba_df.add_prefix(f"{model_name}_Prob_") * 100  # Convert to percentages
+        
+        # Append probability columns at the end
+        results = pd.concat([results, proba_df], axis=1)
         
         # If actual labels exist, calculate accuracy
         if has_actual_labels:
@@ -119,13 +134,10 @@ def predict_new_data(file_path):
             print(f"Classification Report for {model_name}:")
             print(classification_report(new_data['Actual_Fault_Label'], model.predict(new_data_processed)))
     
-    # Add numerical classification column
-    results['Fault_Label_Numeric'] = results['Actual_Fault_Label'].map(fault_mapping)
-    
-    # Save predictions
+    # Save updated predictions with probabilities
     output_file = os.path.join(output_dir, "test_data_predictions.csv")
     results.to_csv(output_file, index=False)
-    print(f"\nPredictions for all models saved to: {output_file}")
+    print(f"\nPredictions with probabilities saved to: {output_file}")
 
-# Uncomment the line below to test new data
+# Uncomment the line below to test new data with a specific model
 predict_new_data("Test_Data_1_prev.csv")
