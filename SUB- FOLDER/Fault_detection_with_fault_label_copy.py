@@ -13,7 +13,7 @@ import joblib
 import os
 
 # Directory where models and results will be saved
-output_dir = r"D:\MAJOR\Major-Project\SUB- FOLDER\models_F20_1"
+output_dir = r"models_F20_1"
 # output_dir = r"D:\MAJOR\Major-Project\SUB- FOLDER\models"
 os.makedirs(output_dir, exist_ok=True)  # Ensure the directory exists
 
