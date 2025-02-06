@@ -1,6 +1,6 @@
 import pandas as pd
 
-def extract_fault_data(input_csv, output_csv, column_name='Actual_Fault_Label', fault_label='FAULT', window=7, num_faults=5):
+def extract_fault_data(input_csv, output_csv, column_name='Actual_Fault_Label', fault_label='FAULT', window=19, num_faults=1):
     # Load the CSV file
     df = pd.read_csv(input_csv)
     
